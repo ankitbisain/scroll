@@ -13,18 +13,24 @@ db = firestore.client()
 def id(x):
     return x
 
-
 # sorry im lowk a combinatorialist
 codes_from_subject = {
     "combo": ["CO"],
     "prob": ["PR"],
-    "ntag": ["NT", "AG"],
-    "anal": ["AP", "CV", "CA", "SP", "DS", "FA"],
-    "topgeo": ["AT", "DG", "MG", "SG", "GT"],
+    "nt": ["NT"],
+    "ag": ["AG"],
+    "anal": ["AP", "CA", "SP", "DS"],
+    "geo": ["DG", "MG"]
 }
+
 
 subjects = codes_from_subject.keys()
 
+
+def clear_collection(collection_name):
+    docs = db.collection(collection_name).stream()
+    for doc in docs:
+        doc.reference.delete()
 
 def db_from_paper(paper, index, date_counts):
     header, title, abstract_preview = paper.preview(id, date_counts, True, 20)
@@ -41,7 +47,9 @@ def db_from_paper(paper, index, date_counts):
     }
 
 
+
 for subject in subjects:
+    clear_collection(f"{subject}-papers")
     papers = papers_from_codes(codes_from_subject[subject])
     papers.sort(key=lambda x: x.date, reverse=True)
     date_counts = defaultdict(int)
