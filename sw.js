@@ -1,5 +1,5 @@
 const CACHE = "v3";
-const FILES = ["/", "index.html", "style.css"];
+const FILES = ["/", "/index.html", "/formatting/style.css"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)));
