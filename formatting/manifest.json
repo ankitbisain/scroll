@@ -1,7 +1,5 @@
 {
-  "name": "Arxiv Scroller",
-  "short_name": "Arxiv",
-  "start_url": "./",
+  "name": "scroll",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000"
