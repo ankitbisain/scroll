@@ -57,7 +57,7 @@
           if (!r.ok) throw new Error();
           const all = await r.json();
           const filtered = all.filter((p) =>
-            p.categories?.some((c) => (categories[subject] || []).includes(c))
+            p.categories?.some((c) => (CATEGORIES[subject] || []).includes(c))
           );
           if (filtered.length === 0) {
             return [{ type: "no_papers", date: date.slice(5) }];
