@@ -6,7 +6,7 @@ from zoneinfo import ZoneInfo
 from functools import partial
 import json
 
-from format_terminal import fit_to_screen
+from formatting.format_terminal import fit_to_screen
 
 FORMAT = partial(fit_to_screen, margin=10, color="\033[47m\033[30m")
 CATEGORIES = [f"math.{code}" for code in sys.argv[1:]]
