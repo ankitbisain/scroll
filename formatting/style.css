@@ -30,6 +30,7 @@ body {
   font-size: 28px;
   cursor: pointer;
   background: #555;
+  color: #000;
 }
 
 #card {
