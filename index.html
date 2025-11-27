@@ -23,16 +23,11 @@
       <button data-subject="misc">misc</button>
     </div>
 
-    <div id="card" style="display: none">
-      <button id="back-button">‹</button>
-      <div id="card-content-wrapper"></div>
-    </div>
+    <div id="card" style="display: none"></div>
 
     <script>
       const selection = document.getElementById("selection");
       const card = document.getElementById("card");
-      const cardContent = document.getElementById("card-content-wrapper");
-      const backButton = document.getElementById("back-button");
 
       const CATEGORIES = {
         combo: ["math.CO"],
@@ -76,22 +71,25 @@
 
       function display(item) {
         if (item.type === "no_papers") {
-          cardContent.innerHTML = `
+          card.innerHTML = `
+            <button id="back-button">‹</button>
             <p>${item.date}</p>
-            <br><br><br>
             <h2>No papers found</h2>
           `;
         } else {
-          cardContent.innerHTML = `
+          card.innerHTML = `
+            <button id="back-button">‹</button>
             <p>${item.date} (${item.index}/${item.tot})</p>
-            <br>
-            <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
-            <br>
+            <h2><a href="${
+              item.link
+            }" target="_blank" style="color:#000;text-decoration:none">${
+            item.title
+          }</a></h2>
             <p>${item.abstract.split(/\s+/).slice(0, 30).join(" ")}...</p>
           `;
         }
         if (window.MathJax) {
-          MathJax.typesetPromise([cardContent]);
+          MathJax.typesetPromise([card]);
         }
       }
 
@@ -116,14 +114,14 @@
         }
       };
 
-      backButton.onclick = (e) => {
-        e.stopPropagation();
-        card.style.display = "none";
-        selection.style.display = "flex";
-      };
-
       card.onclick = (e) => {
-        if (e.target.closest("a") || e.target.id === "back-button") return;
+        if (e.target.id === "back-button") {
+          card.style.display = "none";
+          selection.style.display = "flex";
+          return;
+        }
+        if (e.target.closest("a")) return;
+
         const y =
           (e.clientY - card.getBoundingClientRect().top) /
           card.getBoundingClientRect().height;
@@ -136,6 +134,7 @@
         }
       };
     </script>
+
     <script>
       MathJax = {
         tex: {
