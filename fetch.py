@@ -45,7 +45,10 @@ if new_id != old_id:
     with open(DIR / "papers" / "last.txt", "w") as f:
         f.write(new_id)
     client = arxiv.Client()
-    search = arxiv.Search(id_list=today_ids)
-    papers = [paper(result) for result in client.results(search)]
+    papers = []
+    idlists = [today_ids[i : i + 100] for i in range(0, len(today_ids), 100)]
+    for ids in idlists:
+        search = arxiv.Search(id_list=ids)
+        papers.extend([paper(result) for result in client.results(search)])
     with open(DIR / "papers" / f"{TODAY}.json", "w") as f:
         json.dump(papers, f, indent=2)
