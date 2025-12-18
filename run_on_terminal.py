@@ -1,7 +1,7 @@
 import sys
 import webbrowser
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 from functools import partial
 import json
@@ -11,7 +11,7 @@ from formatting.format_terminal import fit_to_screen
 FORMAT = partial(fit_to_screen, margin=10, color="\033[47m\033[30m")
 CATEGORIES = [f"math.{code}" for code in sys.argv[1:]]
 DIR = Path(__file__).parent
-TODAY = datetime.now(ZoneInfo("America/New_York")).date()
+TODAY = datetime.now(timezone.utc).date()
 
 
 def load(date):

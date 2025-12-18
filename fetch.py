@@ -2,13 +2,12 @@ import arxiv
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
-from zoneinfo import ZoneInfo
 
 
 DIR = Path(__file__).parent
-TODAY = datetime.now(ZoneInfo("America/New_York")).date()
+TODAY = datetime.now(timezone.utc).date()
 URL = "https://arxiv.org/list/math/new"
 
 

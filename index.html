@@ -42,7 +42,7 @@
         next_date = new Date();
 
       function datestr(d) {
-        return d.toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+        return d.toLocaleDateString("en-CA", { timeZone: "UTC" });
       }
 
       async function load() {
