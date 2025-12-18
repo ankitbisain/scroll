@@ -125,10 +125,10 @@
         const y =
           (e.clientY - card.getBoundingClientRect().top) /
           card.getBoundingClientRect().height;
-        if (y < 0.2) {
+        if (y < 0.3) {
           i = Math.max(0, i - 1);
           show();
-        } else if (y > 0.8) {
+        } else if (y > 0.7) {
           i++;
           show();
         }
