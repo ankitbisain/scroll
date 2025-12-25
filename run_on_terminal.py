@@ -37,11 +37,13 @@ def display(paper):
         FORMAT([f"No papers found on {paper["date"]}"])
     else:
         header = f"{paper["date"]} ({paper["index"]}/{paper["tot"]})" + "\n"
+        words = paper["abstract"].split()
+        abstract = " ".join(words[:30]) + ("..." if words[30:] else "")
         FORMAT(
             [
                 header,
                 "\033[1m" + paper["title"] + "\033[22m",
-                " ".join(paper["abstract"].split()[:30]) + "...",
+                abstract,
             ]
         )
 
