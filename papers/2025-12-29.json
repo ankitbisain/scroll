@@ -1,0 +1,1962 @@
+[
+  {
+    "link": "https://arxiv.org/pdf/2512.21588v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Sudheer Mishra",
+      "Sundararajan Natarajan",
+      "Natarajan E"
+    ],
+    "title": "A stabilized virtual element framework for the steady state Boussinesq equation with temperature-dependent parameters",
+    "abstract": "This work presents a new conforming stabilized virtual element method for the generalized Boussinesq equation with temperature-dependent viscosity and thermal conductivity. A gradient-based local projection stabilization method is introduced in the discrete formulation to circumvent the violation of the discrete inf-sup condition. The well-posedness of the continuous problem is established under sufficiently small datum. We derive a stabilized virtual element problem for the Boussinesq equation using equal-order virtual element approximations. The proposed method has several advantages, such as being more straightforward to implement, free from higher-order derivative terms, providing separate stabilization terms without introducing coupling between solution components, and minimizing the number of globally coupled degrees of freedom. The existence of a discrete solution to the stabilized virtual element problem is demonstrated using the Brouwer fixed-point theorem. The error estimates are derived in the energy norm. Additionally, several numerical examples are presented to show the efficiency and robustness of the proposed method, confirming the theoretical results.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21579v1",
+    "categories": [
+      "math.QA",
+      "math.OA"
+    ],
+    "authors": [
+      "K. De Commer",
+      "G. Schrader",
+      "A. Shapiro",
+      "C. Voigt"
+    ],
+    "title": "Quantum $SL^+(N,\\mathbb{R})$ as a locally compact quantum group",
+    "abstract": "We construct the first examples of purely continuous, $q$-deformed Lie type locally compact quantum groups in higher rank. They arise from Drinfeld-Jimbo quantization, at unimodular deformation parameter, of the totally positive part of higher rank split real Lie groups in type $A$. Our techniques are based on quantum cluster theory, in particular as developed through the work of Fock and Goncharov.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21556v1",
+    "categories": [
+      "math.GR"
+    ],
+    "authors": [
+      "Chi Zhang",
+      "Jun Liu",
+      "Dengyin Wang"
+    ],
+    "title": "Weakly nilpotent hypergroups",
+    "abstract": "In this paper, we introduce the weakly nilpotent hypergroups with giving some new properties, and then establish several structural characterizations of these hypergroups. Some results obtained in this paper answer the two questions raised by the first author and W. Guo.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21523v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Yue Huang",
+      "Ling Xue",
+      "Kun Zhao",
+      "Xiaoming Zheng"
+    ],
+    "title": "Unveiling Explicit Patterns: Exact Steady States and Stability in a Confined Chemotaxis Model",
+    "abstract": "Inspired by Carrillo-Li-Wang's work [Proc. London Math. Soc., 2021] on stationary solutions to the singular Keller-Segel system, this paper presents a novel family of explicit steady-state solutions for the same model on a bounded interval, expressed in terms of trigonometric and hyperbolic functions. Under Dirichlet boundary conditions and within a biologically stable parameter regime, these solutions, including singular types such as secant and cosecant, are rigorously derived and analyzed. Their stability is established via energy methods, yielding precise thresholds for pattern persistence. These results provide valuable benchmarks for numerical validation and offer insights into boundary-driven pattern formation.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21519v1",
+    "categories": [
+      "math.RA"
+    ],
+    "authors": [
+      "Chandrasekhar Gokavarapu",
+      "D Madhusudhana Rao"
+    ],
+    "title": "Unified Geometric, Fuzzy, and Computational Framework for Ternary Gamma Semirings",
+    "abstract": "Aim. This paper (Paper D) unifies the ideal-theoretic, computational, and homological layers developed in Papers A (Rao 2025), B (Rao 2025), and C (Rao 2025) into a geometric framework that includes fuzzy and computational geometries on the spectrum Spec_G(T) and derived invariants in TGMod.\n  Scope. We construct structure sheaves and Grothendieck topologies adapted to ternary G-products, develop fuzzy and weighted sites, and prove dualities bridging primitive spectra, Schur-density embeddings, and derived functors Ext and Tor.\n  Outcomes. We obtain comparison theorems between radical/primitive strata and cohomological supports, and supply computable criteria and algorithms for finite models.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21517v1",
+    "categories": [
+      "math.DG",
+      "math.AP"
+    ],
+    "authors": [
+      "Thomas Sch\u00fcrmann"
+    ],
+    "title": "Variance-Refined In-Diameter Lower Bound for the First Dirichlet Eigenvalue",
+    "abstract": "Let $(M,g)$ be a compact $n$-dimensional Riemannian manifold with nonempty boundary and $n\\geq 2$. Assume that ${\\mathrm{Ric}(M)\\ge (n-1)K}$ for some ${K>0}$ and that $\\partial M$ has nonnegative mean curvature with respect to the outward unit normal. Denote by $\u03bb$ the first Dirichlet eigenvalue of the Laplacian. Ling's gradient-comparison method (Ling, 2006) provides an explicit lower bound for $\u03bb$ in terms of $K$ and the in-diameter $\\tilde d$ (twice the maximal distance from a point of $M$ to $\\partial M$). We isolate the only step in Ling's argument that loses quantitative information: a Jensen-H\u00f6lder averaging that replaces a nonconstant one-dimensional comparison function by its mean. Using the uniform strong convexity of $x\\to x^{-1/2}$ on $(0,1]$, we refine this averaging by a variance term and thereby retain part of the discarded oscillation. This yields an explicit closed-form in-diameter bound that is strictly stronger than Ling's estimate for every $K>0$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21504v1",
+    "categories": [
+      "math.ST",
+      "math.PR"
+    ],
+    "authors": [
+      "Xiaoda Xu",
+      "Jun Xian"
+    ],
+    "title": "Expected star discrepancy based on stratified sampling",
+    "abstract": "We present two main contributions to the expected star discrepancy theory. First, we derive a sharper expected upper bound for jittered sampling, improving the leading constants and logarithmic terms compared to the state-of-the-art [Doerr, 2022]. Second, we prove the strong partition principle for star discrepancy, showing that any equal-measure stratified sampling yields a strictly smaller expected discrepancy than simple random sampling, thereby resolving an open question in [Kiderlen and Pausinger, 2022]. Numerical simulations confirm our theoretical advances and illustrate the superiority of stratified sampling in low to moderate dimensions.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21444v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "Alan Haynes",
+      "Christopher Lutsko"
+    ],
+    "title": "The Gauss circle problem for Penrose tilings",
+    "abstract": "Let $B_R$ denote the closed Euclidean ball of radius $R$ in the plane. In this paper we prove that, if $V$ is the set of vertices of any unit length rhombic Penrose tiling then, for $R\\ge 2$, \\[\\#(V\\cap B_R)=\u03c0C_P R^2 + O(R^{2/3}(\\log R)^{2/3}),\\] where $C_P\\approx 1.231$ is a constant.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21441v1",
+    "categories": [
+      "math.AG",
+      "math-ph",
+      "math.AP",
+      "nlin.SI"
+    ],
+    "authors": [
+      "Vladimir Dragovi\u0107",
+      "Vasilisa Shramchenko"
+    ],
+    "title": "Isoperiodic deformations of Toda curves and chains, the difference Korteweg - de Vries equation, and $SU(N)$ Seiberg-Witten theories",
+    "abstract": "We introduce the dynamics of Toda curves of order $N$ and derive differential equations governing this dynamics. We apply the obtained results to describe isoperiodic deformations of $N$-periodic Toda chains and periodic difference Korteweg-de Vries equation. We describe deformations of the essential spectra of $N$-periodic two-sided Jacobi matrices. We also study singular regimes of $SU(N)$ Seiberg-Witten theory and describe their deformations preserving the number of singularities where new massless particles may occur. We introduce and describe isoequilibrium deformations of arbitrary collections of $d$ real disjoint closed intervals. We conclude by providing explicit triangular solutions to constrained Schlesinger systems.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21417v1",
+    "categories": [
+      "math.ST"
+    ],
+    "authors": [
+      "Alejandro Cholaquidis",
+      "Ricardo Fraiman",
+      "Manuel Hern\u00e1ndez-Banadik",
+      "Stanislav Nagy"
+    ],
+    "title": "Estimating axial symmetry using random projections",
+    "abstract": "This paper studies the problem of identifying directions of axial symmetry in multivariate distributions. Theoretical results are derived on how the measure or cardinality of the set of symmetry directions relates to spherical symmetry. The problem is framed using random projections, leading to a proof that in \\(\\RR^2\\), agreement on two random projections is enough to identify the true axes of symmetry. A corresponding result for higher dimensions is conjectured. An estimator for the symmetry directions is proposed and proved to be consistent in the plane.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21413v1",
+    "categories": [
+      "math.NT",
+      "math-ph"
+    ],
+    "authors": [
+      "Ksenia Fedosova",
+      "Kim Klinger-Logan"
+    ],
+    "title": "Convolution identities for complex-indexed divisor functions and modular graph functions",
+    "abstract": "We find exact identities for sums of the form \\begin{equation*}\\label{eq:convsumabs}\n  \\sum_{\\stackrel{n_1+n_2 = n}{n_1 \\in \\mathbb{Z} \\setminus \\{ 0, n \\} }} Q(n_1,n_2) \u03c3_{-r_1}(n_1) \u03c3_{-r_2}(n_2),\n  \\end{equation*}\n  where $n\\in\\mathbb{N}$, $r_1,r_2\\in\\mathbb{C}$, $Q$ is a combination of hypergeometric functions, and $\u03c3_{a}(x)$ denotes the divisor function. Specifically,\n  we find that they can be expressed in terms of Fourier coefficients of Hecke cusp forms weighted by their $L$-values. This result expands upon previous work with Radchenko in which such identities were found for divisor functions with even integer index \\cite{FKLR} and encompasses results of Jacobi \\cite{motohashi1994binary} and Diamantis and O'Sullivan in \\cite{diamantis2010kernels, o2023identities} for divisor functions with odd integer index. The proof of our result expresses these sums in terms of Estermann zeta functions and uses trace formulae. In addition, we use a regularization of divergent convolution sums to provide a mathematical explanation for $L$-values (non-critical in the sense of Deligne) appearing in modular graph functions \\cite{DKS2021_2}.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21401v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Bruce E. Sagan",
+      "Chenchen Zhao"
+    ],
+    "title": "Properties of plactic monoid centralizers",
+    "abstract": "Let u be a word over the positive integers P. Motivated by a question involving crystal graphs, Sagan and Wilson initiated the study of the centralizer of u in the plactic monoid which is the set\n  C(u) = {w | uw is Knuth equivalent to wu}.\n  In particular, they conjectured the following stability phenomenon: for any u there is a positive integer K depending only on u such that C(u^k) = C(u^K) for k >= K. We prove that this property holds for various u including words consisting of only ones and twos, as well as permutations. Sagan and Wilson also considered c_{n,m}(u) which is the number of w in C(u) of length n and maximum at most m. They showed that c_{n,m}(1) is a polynomial in m of degree n-1 and conjectured properties of the coefficients when it is expanded in a binomial coefficient basis. We prove some of these conjectures, for example, that the coefficients are always nonnegative integers.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21394v1",
+    "categories": [
+      "math.DS"
+    ],
+    "authors": [
+      "Yinying Huang",
+      "Oliver Jenkinson",
+      "Zhiqiang Li"
+    ],
+    "title": "Ergodic optimization for Gauss's continued fraction map",
+    "abstract": "The theory of ergodic optimization for distance-expanding maps is extended to Gauss's continued fraction map. Since the set of invariant probability measures is not weak$^*$ closed, we establish a characterisation of the closure of this set, and investigate limit-maximizing measures for H\u00f6lder continuous functions. Although a Ma\u00f1\u00e9 cohomology lemma is shown to hold, the typical periodic optimization conjecture is shown to fail, as a consequence of the typical finite optimization property established for a certain class of (rationally maximized) functions. The typical periodic optimization (TPO) property is shown to hold, however, for the class of $\u03b1$-H\u00f6lder essentially compact functions.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21393v1",
+    "categories": [
+      "math.SG"
+    ],
+    "authors": [
+      "Filip Bro\u0107i\u0107",
+      "Stefan Matijevi\u0107"
+    ],
+    "title": "A note on the wild symplectic ellipsoids",
+    "abstract": "We show that the symplectic $2$-product of $n$ two-dimensional star-shaped domains has an interior symplectomorphic to that of a symplectic ellipsoid. Adapting this construction, given $0<\u03b1\\leq 1$, we obtain that every open subset of $\\mathbb{R}^{2n}$ with a smooth boundary is symplectomorphic to an open set whose boundary contains a set of Hausdorff dimension $2n-1+\u03b1$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21341v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Abdelhamid Moussaoui"
+    ],
+    "title": "Novel Perturbed b-Metric and Perturbed Extended b-Metric Spaces with Banach-Type Fixed Point Theorem",
+    "abstract": "In this paper, we introduce a new general framework, called \\emph{perturbed extended $b$-metric spaces}, denoted by $(X,\\mathcal{D}_\u03b6,\\hbar)$, which extends the classical and extended $b$-metric structures through the inclusion of an explicit perturbation mapping $\\hbar$. This formulation is motivated by the observation that distance measurements in many analytical and applied contexts are often affected by intrinsic or external deviations that cannot be captured by the usual metric-type geometries. We also identify a meaningful specialization arising when the control function $\u03b6$ is constant, leading to the notion of a \\emph{perturbed $b$-metric space}, introduced here as a natural restriction of the general framework.\n  We establish several fundamental properties of spaces of the form $(X,\\mathcal{D}_\u03b6,\\hbar)$ and develop a Banach-type fixed point theorem in the perturbed extended $b$-metric setting. Conditions ensuring the existence and uniqueness of fixed points of a self-map $T:X\\to X$ are derived, together with convergence of Picard iterations $T^{n}v \\to \\vartheta$. Illustrative examples are provided to show that the presence of the perturbation term $\\hbar$, together with the influence of the control function $\u03b6$, may cause $\\mathcal{D}_\u03b6$ to lose the usual extended $b$-metric behaviour and prevent $\\mathcal{D}_\u03b6$ from satisfying the standard extended $b$-metric axioms. We further discuss natural extensions of this perturbation philosophy to multi-point settings, encompassing $S$-metric spaces and their extended and $S_b$-metric variants. The results presented here open new directions for the study of contractive operators and fixed point theory in generalized metric environments.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21906v1",
+    "categories": [
+      "math.AP",
+      "math-ph",
+      "math.PR"
+    ],
+    "authors": [
+      "Dihang Guan",
+      "Hui He",
+      "Wenqing Hu",
+      "Jiaojiao Yang"
+    ],
+    "title": "Wave propagation for 1-dimensional reaction-diffusion equation with nonzero random drift",
+    "abstract": "We consider the wave propagation for a reaction-diffusion equation on the real line, with a random drift and Fisher-Kolmogorov-Petrovskii-Piscounov (FKPP) type nonlinear reaction. We show that when the average drift is positive, the asymptotic wave fronts propagating to the positive and negative directions are both pushed in the negative direction, leading to the possibility that both wave fronts propagate toward negative infinity. Our proof is based on the Large Deviations Principle for diffusion processes in random environments, as well as an analysis of the Feynman-Kac formula. Such probabilistic arguments also reveal the underlying physical mechanism of the wave fronts formation: the drift acts as an external field that shifts the (quenched) free-energy reference level without altering the intrinsic fluctuation structure of the system.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21821v1",
+    "categories": [
+      "math.NA",
+      "math.AP"
+    ],
+    "authors": [
+      "Lingyun Qiu",
+      "Shenwen Yu"
+    ],
+    "title": "Optimal-Transport Stability of Inverse Point-Source Problems for Elliptic and Parabolic Equations",
+    "abstract": "We establish quantitative global stability estimates, formulated in terms of optimal transport (OT) cost, for inverse point-source problems governed by elliptic and parabolic equations with spatially varying coefficients. The key idea is that the Kantorovich dual potential can be represented as a boundary functional of suitable adjoint solutions, thereby linking OT geometry with boundary observations. In the elliptic case, we construct complex geometric optics solutions that enforce prescribed pointwise constraints, whereas in the parabolic case we employ controllable adjoint solutions that transfer interior information to the boundary. Under mild regularity and separation assumptions, we obtain estimates of the form \\[ \\mathcal{T}_c(\u03bc,\u03bd) \\le C\\,\\|u_1 - u_2\\|_{L^2(\\partial\u03a9)} \\quad \\text{and} \\quad \\mathcal{T}_c(\u03bc,\u03bd) \\le C\\,\\|u_1 - u_2\\|_{L^2(\\partial\u03a9\\times[0,T])}, \\] where $\u03bc$ and $\u03bd$ are admissible point-source measures. These results provide a unified analytical framework connecting inverse source problems and optimal transport, and establish OT-based stability theory for inverse source problems governed by partial differential equations with spatially varying coefficients.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21755v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Himanshu Chandrakar"
+    ],
+    "title": "On Shellability of 3-Cut Complexes of Hexagonal Grid Graphs",
+    "abstract": "The $k$-cut complex was recently introduced by Bayer et al. as a generalization of earlier work of Fr{\u00f6}berg (1990) and Eagon and Reiner (1998), and was shown to be shellable for several classes of graphs. In this article, we prove that the $3$-cut complexes of the hexagonal grid graphs $H_{1 \\times m \\times n}$ are shellable for all $m,n \\geq 1$, by constructing an explicit shelling order using reverse lexicographic ordering. From this shelling, we determine the number of spanning facets, denoted by $\u03c8_{m,n}$, and deduce that the complex is homotopy equivalent to a wedge of $\u03c8_{m,n}$ spheres of dimension $\\left( 2m + 2n + 2mn - 4 \\right)$, where $$\u03c8_{m,n} = \\binom{2m+2n+2mn-1}{2} - \\left[ \\left( 6m+2 \\right) n + (2m-4) \\right].$$\n  While these topological properties can be obtained from general results of Bayer et al., we provide an explicit combinatorial construction of a shelling order, yielding a direct counting formula for the number of spheres in the wedge sum decomposition.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21753v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Manfred Buchacher"
+    ],
+    "title": "$x(1-t(x + x^{-1})) F(x;t) = x - t F(0;t)$",
+    "abstract": "The purpose of these notes is to introduce some of the problems the enumeration of lattice walks is dedicated to and familiarize with some of the arguments they can be addressed with. We will discuss the enumeration of lattice walks, their generating functions, and the functional equations they satisfy. We will focus on algebraic methods for manipulating and solving these equations. Elementary power series algebra will play a prominent role, computer algebra too, but we will repeatedly digress and present ideas and methods of different kind whenever it seems appropriate. The exposition is organized around the most simple yet non-trivial problem in the enumeration of lattice walks. The intention is to illustrate different techniques without getting technical.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21742v1",
+    "categories": [
+      "math.PR"
+    ],
+    "authors": [
+      "Alejandro Caicedo",
+      "Leonid Kolesnikov"
+    ],
+    "title": "Sharpness of the percolation phase transition for weighted random connection models",
+    "abstract": "We establish the sharpness of the percolation phase transition for a class of infinite-range weighted random connection models. The vertex set is given by a marked Poisson point process on $\\mathbb{R}^d$ with intensity $\u03bb>0$, where each vertex carries an independent weight. Pairs of vertices are then connected independently with a probability that depends on both their spatial displacement and their respective weights. It is well known that such models undergo a phase transition in $\u03bb$ with respect to the existence of an infinite cluster (under suitable assumptions on the connection probabilities and the weight distribution). We prove that in the subcritical regime the cluster-size distribution has exponentially decaying tails, whereas in the supercritical regime the percolation probability grows at least linearly with respect to $\u03bb$ near criticality. Our proof follows the approach of Duminil-Copin, Raoufi, and Tassion, applying the OSSS inequality to a finite-lattice approximation of the continuum model in order to derive a new differential inequality, which we then analyze and pass to the limit. In addition to the classical random connection model, we consider weighted models with unbounded weights satisfying the min-reach condition under which the neighborhood of each vertex is deterministically bounded by a radius depending solely on its weight. Notably, finite range is not assumed -- that is, we allow unbounded edge lengths -- but the weight distribution is required to satisfy appropriate moment conditions. We expect that our method extends to a broad class of weighted random connection models.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21647v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Yanyan Song",
+      "Yaping Mao"
+    ],
+    "title": "On the size edge-ordered Ramsey numbers of graphs",
+    "abstract": "For edge-ordered graphs $G^{\\prec}$ and $H^{\\prec}$, the size edge-ordered Ramsey number $\\hat{r}_{\\text{edge}}(G^{\\prec}, H^{\\prec})$ is defined as the smallest integer $m$ for which there exists an edge-ordered graph $F^{\\prec}$ (with underlying graph $F$) having $m$ edges, such that every $2$-coloring of the edges of $F^{\\prec}$ contains a monochromatic edge-ordered subgraph isomorphic to $G^{\\prec}$ or a monochromatic edge-ordered subgraph isomorphic to $H^{\\prec}$. Fox and Li posed a foundational question: which families of edge-ordered graphs have linear or near-linear size edge-ordered Ramsey numbers? In this paper, we apply Szemer\u00e9di's regularity lemma to prove that, even for sparse graph families, specifically the well-defined class of edge-ordered book graphs, the size edge-ordered Ramsey numbers of this family exhibit non-linear growth. Furthermore, we show that three families of edge-ordered graphs exhibit linear or near-linear size edge-ordered Ramsey numbers.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21620v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Sumit Roy"
+    ],
+    "title": "A Mathematical Model to Predict Growth and Treatment for UPS Cancer",
+    "abstract": "We study how a fast-growing cancer Undifferentiated Pleomorphic Sarcoma (UPS) grows and how well treatments work. We create a set of equations to describe the tumor's life. We look at four main things: how surgery removes the mass, how the body heals after surgery, the best time to give radiation using on-off rules, and how the immune system fights the cancer. We checked our results against real data, and they match very well. This work helps us predict how a patient will do after treatment.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21814v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Tianjiao Wang",
+      "Xiang Xu",
+      "Yue Zhao"
+    ],
+    "title": "Stability for the inverse random potential scattering problem",
+    "abstract": "This paper is concerned with an inverse random potential problem for the Schr\u00f6dinger equation. The random potential is assumed to be a generalized Gaussian random function, whose covariance operator is a classical pseudo-differential operator. For the direct problem, the meromorphic continuation of the resolvent of the Schr\u00f6dinger operator with rough potentials is investigated, which yields the well-posedness of the direct scattering problem and a Born series expansion. For the inverse problem, we derive a probabilistic stability estimate for determining the principle symbol of the covariance operator of the random potential. The stability result provides an estimate of the probability for an event when the principle symbol can be quantitatively determined by a single realization of the multi-frequency backscattered far-field pattern. The analysis employs the ergodicity theory and quantitative analytic continuation principle.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21806v1",
+    "categories": [
+      "math.ST"
+    ],
+    "authors": [
+      "Douglas P. Wiens"
+    ],
+    "title": "Optimal Robust Bounded Bias and Bounded Variance Designs",
+    "abstract": "Designs which are minimax in the presence of model misspecifications have been constructed so as to minimize the maximum, over classes of alternate response models, of the integrated mean squared error of the predicted values. This mean squared error decomposes into a term arising solely from variation, and a bias term arising from the model errors. Here we consider two associated problems: (i) design so as to minimize the variance, subject to a bound on the bias, and (ii) design so as to minimize the bias, subject to a bound on the variance. We show that solutions to both problems are given by the minimax designs, with appropriately chosen values of their tuning constant. Conversely, any minimax design solves both problems for appropriate choices of the bounds on the bias or variance.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21779v1",
+    "categories": [
+      "math.CO",
+      "math.PR"
+    ],
+    "authors": [
+      "Viet H. Do",
+      "Hoi H. Nguyen",
+      "Kiet H. Phan",
+      "Tuan Tran",
+      "Van H. Vu"
+    ],
+    "title": "Littlewood-Offord bounds on the symmetric groups and applications",
+    "abstract": "The anti-concentration phenomenon in probability theory has been intensively studied in recent years, with applications across many areas of mathematics. In most existing works, the ambient probability space is a product space generated by independent random variables. In this paper, we initiate a systematic study of anti-concentration when the ambient space is the symmetric group, equipped with the uniform measure. Concretely, we focus on the random sum $S_\u03c0 = \\sum_{i=1}^{n} w_i\\, v_{\u03c0(i)}$, where $w=(w_1,\\dots,w_n)$ and $v=(v_1,\\dots,v_n)$ are fixed vectors and $\u03c0$ is a uniformly random permutation.\n  The paper contains several new results, addressing both discrete and continuous anti-concentration phenomena. On the discrete side, we establish a near-optimal structural characterization of the vectors $w$ and $v$ under the assumption that the concentration probability $\\sup_x P(S_\u03c0=x)$ is polynomially large. As applications, we derive and strengthen a number of previous results. In particular, we show that if both $w$ and $v$ have distinct entries, then $\\sup_x P(S_\u03c0=x) \\le n^{-5/2+o(1)}$. This bound serves as a permutation-space analogue of the classical Erd\u0151s--Moser bound in the product-space setting and answers a question posed by Alon--Pohoata--Zhu.\n  From the continuous perspective, we study the small-ball event $|S_\u03c0-L|\\le \u03b4$. We establish sharp bounds in various settings, including results exhibiting sub-gaussian decay in $L$. With additional effort, we are also able to treat the joint distribution of these events. Moreover, we provide a characterization of the vectors $w$ and $v$ for which these small-ball probabilities are large. As an application, we prove that the number of extremal points of random permutation polynomials is bounded by $O(\\log n)$, extending results of S{\u00f6}ze on the number of real roots.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21770v1",
+    "categories": [
+      "math.RA"
+    ],
+    "authors": [
+      "Chandrasekhar Gokavarapu"
+    ],
+    "title": "Asymmetry in Spectral Graph Theory: Harmonic Analysis on Directed Networks via Biorthogonal Bases (Random-Walk Laplacian Formulation)",
+    "abstract": "The operator-theoretic dichotomy underlying diffusion on directed networks is \\emph{symmetry versus non-self-adjointness} of the Markov transition operator. In the reversible (detailed-balance) regime, a directed random walk $P$ is self-adjoint in a stationary $\u03c0$-weighted inner product and admits orthogonal spectral coordinates; outside reversibility, $P$ is genuinely non-self-adjoint (often non-normal), and stability is governed by biorthogonal geometry and eigenvector conditioning. In this paper we develop a harmonic-analysis framework for directed graphs anchored on the random-walk transition matrix $P=D_{\\mathrm{out}}^{-1}A$ and the random-walk Laplacian $L_{\\mathrm{rw}}=I-P$. Using biorthogonal left/right eigenvectors we define a \\emph{Biorthogonal Graph Fourier Transform} (BGFT) adapted to directed diffusion, propose a diffusion-consistent frequency ordering based on decay rates $\\Re(1-\u03bb)$, and derive operator-norm stability bounds for iterated diffusion and for BGFT spectral filters. We prove sampling and reconstruction theorems for $P$-bandlimited (equivalently $L_{\\mathrm{rw}}$-bandlimited) signals and quantify noise amplification through the conditioning of the biorthogonal eigenbasis. A simulation protocol on directed cycles and perturbed non-normal digraphs demonstrates that asymmetry alone does not dictate instability; rather, non-normality and eigenvector ill-conditioning drive reconstruction sensitivity, making BGFT a natural analytical language for directed diffusion processes.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21731v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Stefan Pilot",
+      "Murwan Siddig"
+    ],
+    "title": "Sequential Decision-making for Ride-hailing Fleet Control: A Unifying Perspective",
+    "abstract": "This paper provides a unified framework for the problem of controlling a fleet of ride-hailing vehicles under stochastic demand. We introduce a sequential decision-making model that consolidates several problem characteristics and can be easily extended to include additional characteristics. To solve the problem, we design an efficient procedure for enumerating all feasible vehicle-to-request assignments, and we introduce scalable techniques to deal with the exploration-exploitation tradeoff. We construct reusable benchmark instances that are based on real-world data and that capture a range of spatial structures and demand distributions. Our proposed modelling framework, policies and benchmark instances allow us to analyze interactions between problem characteristics that were not previously studied. We find no significant difference between revenue generated by internal combustion engine fleets and fast-charging electric fleets, but both significantly outperform slow-charging electric fleets. We also find that pooling increases the revenue, and reduces revenue variability, for all fleet types. Our contributions can help coordinate the significant research effort that this problem continues to receive.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21660v1",
+    "categories": [
+      "cs.IT",
+      "eess.SP"
+    ],
+    "authors": [
+      "Shicong Liu",
+      "Xianghao Yu",
+      "Shenghui Song",
+      "Khaled B. Letaief"
+    ],
+    "title": "Near-Field Communication with Massive Movable Antennas: An Electrostatic Equilibrium Perspective",
+    "abstract": "Recent advancements in large-scale position-reconfigurable antennas have opened up new dimensions to effectively utilize the spatial degrees of freedom (DoFs) of wireless channels. However, the deployment of existing antenna placement schemes is primarily hindered by their limited scalability and frequently overlooked near-field effects in large-scale antenna systems. In this paper, we propose a novel antenna placement approach tailored for near-field massive multiple-input multiple-output systems, which effectively exploits the spatial DoFs to enhance spectral efficiency. For that purpose, we first reformulate the antenna placement problem in the angular domain, resulting in a weighted Fekete problem. We then derive the optimality condition and reveal that the {optimal} antenna placement is in principle an electrostatic equilibrium problem. To further reduce the computational complexity of numerical optimization, we propose an ordinary differential equation (ODE)-based framework to efficiently solve the equilibrium problem. In particular, the optimal antenna positions are characterized by the roots of the polynomial solutions to specific ODEs in the normalized angular domain. By simply adopting a two-step eigenvalue decomposition (EVD) approach, the optimal antenna positions can be efficiently obtained. Furthermore, we perform an asymptotic analysis when the antenna size tends to infinity, which yields a closed-form solution. Simulation results demonstrate that the proposed scheme efficiently harnesses the spatial DoFs of near-field channels with prominent gains in spectral efficiency and maintains robustness against system parameter mismatches. In addition, the derived asymptotic closed-form {solution} closely approaches the theoretical optimum across a wide range of practical scenarios.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21600v1",
+    "categories": [
+      "math.AP",
+      "math.DG"
+    ],
+    "authors": [
+      "Qiang Ren"
+    ],
+    "title": "Solutions with clustering concentration layers to the Ambrosetti-Prodi type problem",
+    "abstract": "We consider the following Ambrosetti-Prodi type problem \\begin{equation}\\label{e50} \\left\\{\\begin{array}{ll} -div (A(x)\\nabla u)=|u|^p-t\\mathbf\u03a8(x), &\\mbox{in $\u03a9$,} \\\\ u=0, & \\mbox{on $\\partial \u03a9$}, \\end{array} \\right. \\end{equation} where $\u03a9\\subset \\mathbb{R}^2$, $t>0$, $p>3$ and $\\mathbf\u03a8$ is an eigenfunction corresponding to the first eigenvalue of the following operator \\[\\mathfrak{L}(u)=-div (A(x)\\nabla u).\\] Moreover, $A(x)=\\{A_{ij}(x)\\}_{2\\times 2}$ is a symmetric positive defined matrix function. Let $\u0393\\subset \u03a9$ be a closed curve and also a non-degenerate critical point of the functional \\[\\mathcal{K}(\u0393)=\\int_\u0393\\mathbf\u03a8^{\\frac{p+3}{2p}}dvol_{\\mathfrak{g}},\\] where $\\mathfrak{g}(X,Y)=\\langle A^*X,Y\\rangle$ is a Riemannian metric on $\\mathbb{R}^2$ and $A^*$ is the adjoint matrix for $A$. We prove that there exists a sequence of $t=t_l\\to +\\infty$ such that this problem has solutions $u_{t_l}$ with clustering concentration layers directed along $\u0393$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21550v1",
+    "categories": [
+      "math.AC",
+      "math.CO"
+    ],
+    "authors": [
+      "Somayeh Bandari",
+      "Raheleh Jafari"
+    ],
+    "title": "The Gauss Algebra of squarefree Veronese algebras",
+    "abstract": "We investigate the Gauss algebra for squarefree Veronese algebras generated in degree $3$. For small dimensions not exceeding $7$, we determine the Gauss algebra by specifying its generators and show in particular that it is normal and Cohen-Macaulay.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21546v1",
+    "categories": [
+      "math.RT"
+    ],
+    "authors": [
+      "Wenyu Gao",
+      "Fan Xu"
+    ],
+    "title": "Stability Conditions and Harder-Narasimhan Filtrations for Triangulated Categories",
+    "abstract": "In this paper, we investigate the relationships between Harder-Narasimhan filtrations and derived Hall algebras. We extend several results from abelian categories to triangulated categories, including Reineke inversions, wall-crossing formulas, and Joyce's elements $\u03b5_\u03b3$. The results in triangulated categories can be summarized via a diagram of the same form of that in abelian categories. As an application, we characterize all possibilities for stability conditions on $D^b(\\mathrm{rep} A_2)$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21532v1",
+    "categories": [
+      "math.DG",
+      "math.PR"
+    ],
+    "authors": [
+      "Hiroshi Matsuzoe",
+      "Asuka Takatsu"
+    ],
+    "title": "Divergence and Deformed Exponential Family",
+    "abstract": "The Kullback--Leibler divergence together with exponential families establishes the foundation of information geometry and is widely generalized. Among the generalization, we focus on the $(h,\u03c4)$-divergence and $(h,\u03c4)$-exponential families. We present a sufficient condition for the $(h,\u03c4)$-divergence to induce a Hessian structure on an $(h,\u03c4)$-exponential family. We also define the $(h,\u03c4)$-dependence of random variables and prove a kind of the law of large numbers.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21531v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Baiting Xie",
+      "Chenglong Yu"
+    ],
+    "title": "Homology of Local Systems on Real Line Arrangement Complements",
+    "abstract": "We study the homology groups of the complement of a complexified real line arrangement with coefficients in complex rank-one local systems. Using Borel--Moore homology, we establish an algorithm computing their dimensions via the real figures of the arrangement. It enables us to give a new upper bound. We further consider the case where the arrangement contains a sharp pair and make partial progress on a conjecture proposed by Yoshinaga.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21498v1",
+    "categories": [
+      "math.AT",
+      "math.CV",
+      "math.GR",
+      "math.GT"
+    ],
+    "authors": [
+      "Jyh-Haur Teh"
+    ],
+    "title": "The asphericity of locally finite infinite configuration spaces and Weierstrass entire coverings",
+    "abstract": "Let $Conf^{lf}_{\\infty}(\\C)$ and $C^{lf}_{\\infty}(\\C)$ denote the locally finite infinite ordered and unordered configuration spaces of the complex plane. We prove that both $Conf^{lf}_{\\infty}(\\C)$ and $C^{lf}_{\\infty}(\\C)$ are aspherical. We further obtain a locally finite analogue of the braid exact sequence, \\[ 1\\longrightarrow H^{lf}(\\infty)\\longrightarrow B^{lf}(\\infty)\\longrightarrow \\Aut(\\N)\\longrightarrow 1, \\] where $H^{lf}(\\infty)=\u03c0_1(Conf^{lf}_{\\infty}(\\C))$ and $B^{lf}(\\infty)=\u03c0_1(Conf^{lf}_{\\infty}(\\C)//\\Aut(\\N))$, the fundamental group of the homotopy quotient of $Conf^{lf}_{\\infty}(\\C)$ by $\\Aut(\\N)$. Building on this, we classify connected countably infinite--sheeted covering spaces and give a criterion for when such a covering can be realized from the zero set of a family of entire functions $F:X\\times\\C\\to\\C$. In particular, if $\u03c0_1(X)$ is free and $H^2(X;\\Z)=0$, then every countably infinite--sheeted covering space over $X$ is realizable.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21485v1",
+    "categories": [
+      "math.OA",
+      "math.CT"
+    ],
+    "authors": [
+      "Toshihiko Masuda"
+    ],
+    "title": "Relative center construction for $G$-graded C$^*$-tensor categories and Longo-Rehren inclusions",
+    "abstract": "Gelaki-Naidu-Nikshych and Turaev-Virelizier showed the existence of $G$-braiding on the\n  relative Drinfeld center of a $G$-graded tensor category. We will explain this concept\n  from the viewpoint of Longo-Rehren inclusions.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21442v1",
+    "categories": [
+      "math.OA"
+    ],
+    "authors": [
+      "Alessio Savini"
+    ],
+    "title": "Uniformly bounded representations of discrete measured groupoid into finite Von Neumann algebras",
+    "abstract": "Let $(\\mathcal{G},\u03bd)$ be a $t$-discrete ergodic groupoid. Consider a finite Von Neumann algebra $\\mathcal{M}$ with separable predual. We prove that every uniformly bounded measurable representation $\u03c1:\\mathcal{G} \\rightarrow \\mathrm{GL}(\\mathcal{M})$ into the invertible elements of $\\mathcal{M}$ is similar to a unitary representation.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21418v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Hanlin Cai",
+      "Zeyu Liu"
+    ],
+    "title": "$h$-topology for rigid spaces and an application to $p$-adic Simpson correspondence",
+    "abstract": "In this paper, we study the $h$-topology for rigid spaces. Along the way, we establish several foundational results on morphisms of rigid spaces: we prove generic flatness and openness of the flat locus in the rigid setting, and we show that (for affinoid rigid spaces) strict transforms become flat after a blowup. Moreover, we show that any fppf cover admits a quasi-finite refinement and prove a version of Zariski's main theorem for rigid spaces. As an application, we deduce that for a proper rigid space $X$ over $C$, the category of pro-\u00e9tale vector bundles on $X$ is equivalent to the category of Higgs bundles on the $h$-site of $X$, thereby generalizing Heuer's results to the singular setting.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21378v1",
+    "categories": [
+      "math.DG"
+    ],
+    "authors": [
+      "Emmanuel Gnandi",
+      "Fortun\u00e9 Massamba"
+    ],
+    "title": "Remark on quasi Sasakian structures",
+    "abstract": "In this work, we revisit quasi-Sasakian geometry in dimension three and examine how these structures interact with the foliation generated by the Reeb vector field and its basic cohomology. Through a deformation-based approach, we show that a closed, orientable $3$-manifold admits a quasi-Sasakian structure precisely when it is either Sasakian or arises as a K\u00e4hler mapping torus. In particular, every quasi-Sasakian structure in this setting can be deformed into a Sasakian or a co-K\u00e4hler one. This result leads to a complete classification of quasi-Sasakian manifolds in dimension three and highlights the geometric and topological features that distinguish the two cases.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21932v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Zhixiu Fan"
+    ],
+    "title": "Volumes of foliations birationally bounded by algebraically integrable families",
+    "abstract": "We prove that for log canonical foliations which are birationally bounded by algebraically integrable families, the set of their volumes satisfies the DCC. This answers a special case of a question posed by Cascini, Hacon, and Langer. As a key ingredient, we establish the deformation invariance of relative log canonical volumes for a family of weak semistable morphisms, which can be viewed as a relative version of the classical result proved by Hacon, McKernan, and Xu.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21920v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "Peter Koymans",
+      "Robert J. Lemke Oliver",
+      "Efthymios Sofos",
+      "Frank Thorne"
+    ],
+    "title": "Asymptotics for $6$-torsion and $D_6$-extensions",
+    "abstract": "We prove a composite case of the Cohen--Lenstra--Gerth heuristics. Specifically, we establish an asymptotic for the average $6$-torsion of the class group of quadratic number fields. We also prove Malle's conjecture for Galois $D_6$-extensions.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21910v1",
+    "categories": [
+      "math.DG",
+      "math.CV"
+    ],
+    "authors": [
+      "Alexander Bednarek"
+    ],
+    "title": "Fano Fibrations and Twisted K\u00e4hler-Einstein Metrics II: The K\u00e4hler-Ricci Flow",
+    "abstract": "This is the second of two papers studying both the geometric structure of Fano fibrations and the application to K\u00e4hler-Ricci flows developing a singularity in finite time. We assume that the K\u00e4hler-Ricci flow on a compact K\u00e4hler manifold has a rational initial metric and develops a singularity in finite time such that the manifold admits a Fano fibration structure. Moreover, it is assumed that the volume form of the flow collapses uniformly at the rate of $C^{-1}(T-t)^{n-m} \u03a9\\leq \u03c9(t)^n\\leq C(T-t)^{n-m}\u03a9$. Under this setting, a diameter bound is obtained in any compact set away from singular fibres and the diameter of the fibres is proven to collapse at the optimal rate $\\sqrt{T-t}$. Furthermore, several precise $C^0$-estimates are proven for the potential of the complex Monge-Ampere flow which involve the potentials of singular twisted K\u00e4hler-Einstein metrics on the base variety from part I. Finally, in the case of K\u00e4hler-Einstein Fano fibres, we deduce Type I scalar curvature in any compact set away from singular fibres and globally for a submersion.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21908v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "Xuan Pang",
+      "Danyao Wu",
+      "Pingzhi Yuan"
+    ],
+    "title": "Permutation Polynomials of the form $L(X)+\u03b3Tr_q^{q^3}(h(X))$ over finite fields with even characteristic",
+    "abstract": "Permutation polynomials over finite fields have extensive applications in various areas. Particularly, permutation polynomials with simple forms are of great interest. In recent papers, several classes of permutation polynomials of the form $L(X)+Tr_q^{q^3}(h(X))$ have been constructed. This paper further investigates permutation polynomials of such form over $\\mathbb{F}_{q^3}$. Unlike previous studies, we transform the problem of constructing univariate permutation polynomials over finite fields into that of constructing corresponding multivariate permutations over $\\mathbb{F}_{q}$-vector spaces. Through this approach, we completely characterize a class of permutation polynomials of the form $L(X)+\u03b3Tr_q^{q^3}(c_1X+c_2X^2+c_3X^3+c_4X^{q+2})$ over $\\mathbb{F}_{q^3}$, where $q=2^m$, $L(X)=X^q+aX$ and $a,c_1,c_2,c_3,c_4,\u03b3\\in\\mathbb{F}_q$ with $a^2+a+1\\neq0$. Furthermore, using a similar method, we generalize several results from a recent work by Jiang, Li and Qu (2026).",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21839v1",
+    "categories": [
+      "math.AG",
+      "math.CO",
+      "math.RT"
+    ],
+    "authors": [
+      "Joshua Enwright",
+      "Luca Francone",
+      "Joaqu\u00edn Moraga",
+      "Hunter Spink"
+    ],
+    "title": "Fano compactifications of mutation algebras",
+    "abstract": "In this article, we introduce the notion of mutation semigroup algebras. This concept simultaneously generalizes cluster algebras and semigroup algebras. We show that, under some mild conditions on the singularities, the spectrum $U={\\rm Spec}(R)$ of a mutation semigroup algebra $R$ admits a log Fano compactification $U\\hookrightarrow X$. The compactification $X$ can be chosen to be a $\\mathbb{Q}$-factorial log Fano variety whenever $U$ is $\\mathbb{Q}$-factorial. Furthermore, we prove that a $\\mathbb{Q}$-factorial klt Fano variety $X$ is of cluster type if and only if its Cox ring ${\\rm Cox}(X)$ is a ${\\rm Cl}(X)$-graded mutation semigroup algebra. In order to enlighten the previous theorems, we provide several explicit examples motivated by birational geometry, representation theory, and combinatorics.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21825v1",
+    "categories": [
+      "math.GT"
+    ],
+    "authors": [
+      "Nathan M. Dunfield",
+      "Sherry Gong"
+    ],
+    "title": "Ribbon concordances and slice obstructions: experiments and examples",
+    "abstract": "There are 352.2 million prime knots in the 3-sphere with at most 19 crossings. We study which of these knots are slice, in both the smooth and topological categories. While no algorithm is known for deciding whether a given knot is slice in either setting, we are able to determine it smoothly for all but about 11,400 knots (0.003% or 1 in 30,000) and topologically for all but about 1,400 knots (0.0004% or about 1 in 250,000). In particular, we show that some 1.6 million of these knots (0.46%) are smoothly slice (in fact ribbon) and that 350.5 million are not even topologically slice (99.54%). We use a wide range of tools and techniques, and introduce several new or refined methods for probing these properties. Along the way, we produce 500,000 pairs of 0-friends, that is, pairs of distinct knots with the same 0-surgery. We discuss how our data is consistent with several important conjectures and suggests new ones, and highlight the simplest knots where sliceness remains unknown.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21751v1",
+    "categories": [
+      "math.DG"
+    ],
+    "authors": [
+      "Arham Deep"
+    ],
+    "title": "Explicit elliptic estimates for nowhere vanishing harmonic 1-forms",
+    "abstract": "We compute an explicit constant for an injectivity estimate on the 3-Torus involving the Laplace Operator. First, we provide motivation for such explicit estimates. We perform the computation for the 3-Torus endowed with the flat metric before generalising to perturbed metrics. Finally, we apply these results to show existence of a nowhere vanishing harmonic 1-form on the 3-Torus endowed with a perturbed metric.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21744v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Katherina Bick",
+      "Reinhard Nabben"
+    ],
+    "title": "Factorized sparse approximate inverse preconditioning for singular M-matrices",
+    "abstract": "Here we consider the factorized sparse approximate inverse (FSAI) preconditioner. We apply the FSAI preconditioner to singular irreducible M-matrices. These matrices arise e.g. in discrete Markov chain modeling or as graph Laplacians. We show, that there are some restrictions on the nonzero pattern needed for a stable construction of the FSAI preconditioner in this case. With these restrictions FSAI is well-defined. Moreover, we proved that the FSAI preconditioner shares some important properties with the original system. The lower triangular matrix $L_G$ and the upper triangular matrix $U_G$, generated by FSAI, are non-singular and non-negative. The diagonal entries of $L_GAU_G$ are positive and $L_GAU_G$, the preconditioned matrix, is a singular M-matrix. Even more, we establish that a (1,2)-inverse is computed for the complete nonzero patter.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21634v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Jiaxi Huang",
+      "Daniel Tataru"
+    ],
+    "title": "Local well-posedness of the skew mean curvature flow for large data",
+    "abstract": "The skew mean curvature flow is an evolution equation for $d$ dimensional ma\\-nifolds embedded in $\\mathbb{R}^{d+2}$ (or more generally, in a Riemannian manifold). It can be viewed as a Schr\u00f6dinger analogue of the mean curvature flow, or alternatively as a quasilinear version of the Schr\u00f6dinger Map equation. In this article, we prove large data local well-posedness in low-regularity Sobolev spaces for the skew mean curvature flow in dimension $d\\geq 2$. This is achieved by introducing several new ideas: (i) a time discretization method to establish the existence of smooth solutions, (ii) constructing the orthonormal frame by a parallel transport method and a lifting criterion, (iii) introducing intrinsic fractional function spaces $X^s\\subset H^s$ on a noncompact manifold for any $s>\\frac{d}{2}$, such that the $X^s$-norm of the second fundamental form can be propagated well along the quasilinear Schr\u00f6dinger flow, (iv) deriving a difference equation to prove the uniqueness result for solutions $F\\in C^2$, which is independent in the choices of gauge. Our method turns out to be more robust for large data problem.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21622v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Nidhi Nidhi",
+      "Ambesh Kumar Pandey",
+      "K. Sreenadh"
+    ],
+    "title": "Poho\u017eaev identity and the existence of normalized ground state solutions for variable exponent problems",
+    "abstract": "In this article, we investigate normalized solutions for nonlinear problems involving variable exponents. To the best of our knowledge, normalized solutions have not been previously studied in this setting, and our results appear to be new. A key difficulty is that the standard scaling argument, which is important in the classical normalized solution approach, is no longer available in the variable exponent setup. To address this, we work with a constrained variational framework and establish the existence of a ground state solution. We further show that these solutions are $C^{1,\u03b1}_{loc}(\\mathbb{R}^N)$. Finally, we derive a Poho\\v zaev-type identity adapted to the variable exponent structure in $\\mathbb{R}^N$, which is used to prove that the solution is a ground state.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21469v1",
+    "categories": [
+      "math.OC",
+      "eess.SY"
+    ],
+    "authors": [
+      "Daiki Tsuzuki",
+      "Kentaro Ohki"
+    ],
+    "title": "Convergence Analysis of Natural Power Method and Its Applications to Control",
+    "abstract": "This paper analyzes the discrete-time natural power method, demonstrating its convergence to the dominant $r$-dimensional subspace corresponding to the $r$ eigenvalues with the largest absolute values. This contrasts with the Oja flow, which targets eigenvalues with the largest real parts. We leverage this property to develop methods for model order reduction and low-rank controller synthesis for discrete-time LTI systems, proving preservation of key system properties. We also extend the low-rank control framework to slowly-varying LTV systems, showing its utility for tracking time-varying dominant subspaces.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21464v1",
+    "categories": [
+      "math.FA"
+    ],
+    "authors": [
+      "Ho Yun",
+      "Yoav Zemel"
+    ],
+    "title": "Gaussian Optimal Transport Beyond Brenier's Theorem",
+    "abstract": "We explore the geometry of the Bures-Wasserstein space for potentially degenerate Gaussian measures on a separable Hilbert space. In this general setting, the optimal transport map is formally the subgradient of a convex function that is infinite almost everywhere, rendering conventional duality-based variational methods ineffective. We overcome this analytical barrier by exploiting a constructive operator-theoretic approach. Our central result proves that the Kantorovich problem for any pair of Gaussian measures reduces to a Monge problem; that is, an optimal transport map exists in at least one direction between two measures. This reduction allows for a complete characterization with explicit formulas for all optimal (potentially unbounded) Monge transport map and Kantorovich couplings, as well as establishing their uniqueness. Furthermore, we provide a full description of the convex set of geodesics between degenerate measures, revealing a rich geometric structure where the classical McCann interpolants arise as the extreme points. We apply these findings to construct transport maps for Gaussian processes and introduce a novel framework for Wasserstein barycenters based on random Green's operators.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21461v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Kyosuke Maeda",
+      "Tomohiro Okuma",
+      "Kei-ichi Watanabe",
+      "Ken-ichi Yoshida"
+    ],
+    "title": "Nearly Gorenstein rational surface singularities",
+    "abstract": "In this paper, we show that for any rational surface singularity $A$, the canonical trace ideal $\\mathrm{Tr}_A(K_A)$ is integrally closed ideal which is represented by the minimal anti-nef cycle $F$ on the minimal resolution of singularities so that $K_X+F$ is anti-nef. Then $F \\ge \\mathbb Z$ if $A$ is not Gorenstein, where $\\mathbb Z$ is the fundamental cycle. As a result, we give a criterion for rational surface singularity $A$ to be nearly Gorenstein.\n  Moreover, we classify all nearly Gorenstein rational singularities in terms of resolution of singularities in the following cases: (a) the fundamental cycle $\\mathbb Z$ is almost reduced; (b) quotient singularity.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21411v1",
+    "categories": [
+      "math.ST",
+      "stat.ML"
+    ],
+    "authors": [
+      "Sean Plummer"
+    ],
+    "title": "Thermodynamic Characterizations of Singular Bayesian Models: Specific Heat, Susceptibility, and Entropy Flow in Posterior Geometry",
+    "abstract": "Singular learning theory (SLT) \\citep{watanabe2009algebraic,watanabe2018mathematical} provides a rigorous asymptotic framework for Bayesian models with non-identifiable parameterizations, yet the statistical meaning of its second-order invariant, the \\emph{singular fluctuation}, has remained unclear. In this work, we show that singular fluctuation admits a precise and natural interpretation as a \\emph{specific heat}: the second derivative of the Bayesian free energy with respect to temperature. Equivalently, it measures the posterior variance of the log-likelihood observable under the tempered Gibbs posterior. We further introduce a collection of related thermodynamic quantities, including entropy flow, prior susceptibility, and cross-susceptibility, that together provide a detailed geometric diagnosis of singular posterior structure. Through extensive numerical experiments spanning discrete symmetries, boundary singularities, continuous gauge freedoms, and piecewise (ReLU) models, we demonstrate that these thermodynamic signatures cleanly distinguish singularity types, exhibit stable finite-sample behavior, and reveal phase-transition--like phenomena as temperature varies. We also show empirically that the widely used WAIC estimator \\citep{watanabe2010asymptotic, watanabe2013widely} is exactly twice the thermodynamic specific heat at unit temperature, clarifying its robustness in singular models.Our results establish a concrete bridge between singular learning theory and statistical mechanics, providing both theoretical insight and practical diagnostics for modern Bayesian models.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21405v1",
+    "categories": [
+      "math.CV"
+    ],
+    "authors": [
+      "Fiana Jacobzon"
+    ],
+    "title": "On one filtration of holomorphic functions",
+    "abstract": "In this work we consider a family of function classes constructed by means of the Gauss hypergeometric function $_2F_1(1,1;2;z) =-\\frac{\\log(1-z)}{z}$. We demonstrate that this family, in fact, constitutes classes of analytic functions subject to prescribed constraints on their derivatives. For these classes we obtain some geometric characteristics, including sharp coefficient estimates. Moreover, we show that this family naturally provides a filtration of infinitesimal generators, and investigate the corresponding dynamical behavior of the associated semigroups. It is interesting that this filtration links to the Ma--Minda starlike functions.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21396v1",
+    "categories": [
+      "cs.IT",
+      "cs.LG",
+      "eess.SP"
+    ],
+    "authors": [
+      "Do\u011fukan \u00d6zbayrak",
+      "Ahmed Hareedy"
+    ],
+    "title": "Learning to Reconfigure: Using Device Status to Select the Right Constrained Coding Scheme",
+    "abstract": "In the age of data revolution, a modern storage~or transmission system typically requires different levels of protection. For example, the coding technique used to fortify data in a modern storage system when the device is fresh cannot be the same as that used when the device ages. Therefore, providing reconfigurable coding schemes and devising an effective way to perform this reconfiguration are key to extending the device lifetime. We focus on constrained coding schemes for the emerging two-dimensional magnetic recording (TDMR) technology. Recently, we have designed efficient lexicographically-ordered constrained (LOCO) coding schemes for various stages of the TDMR device lifetime, focusing on the elimination of isolation patterns, and demonstrated remarkable gains by using them. LOCO codes are naturally reconfigurable, and we exploit this feature in our work. Reconfiguration based on predetermined time stamps, which is what the industry adopts, neglects the actual device status. Instead, we propose offline and online learning methods to perform this task based on the device status. In offline learning, training data is assumed to be available throughout the time span of interest, while in online learning, we only use training data at specific time intervals to make consequential decisions. We fit the training data to polynomial equations that give the bit error rate in terms of TD density, then design an optimization problem in order to reach the optimal reconfiguration decisions to switch from a coding scheme to another. The objective is to maximize the storage capacity and/or minimize the decoding complexity. The problem reduces to a linear programming problem. We show that our solution is the global optimal based on problem characteristics, and we offer various experimental results that demonstrate the effectiveness of our approach in TDMR systems.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21843v1",
+    "categories": [
+      "math-ph",
+      "cond-mat.dis-nn",
+      "cond-mat.mes-hall",
+      "math.FA",
+      "quant-ph"
+    ],
+    "authors": [
+      "Gregory Berkolaiko",
+      "Jacob Shapiro",
+      "Beyer Chase White"
+    ],
+    "title": "The Loring--Schulz-Baldes Spectral Localizer Revisited",
+    "abstract": "The spectral localizer, introduced by Loring in 2015 and Loring and Schulz-Baldes in 2017, is a method to compute the (infinite volume) topological invariant of a quantum Hamiltonian on $\\ZZ^d$, as the signature of the (finite) localizer matrix. We present a direct and elementary spectral-theoretic proof treating the $d=1$ and $d=2$ cases on an almost equal footing. Moreover, we re-interpret the localizer as a higher-dimensional topological insulator via the bulk-edge correspondence.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21891v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Fatma Z\u00fcrnac\u0131-Yeti\u015f"
+    ],
+    "title": "Non-polynomial divided difference and blossoming",
+    "abstract": "Two notable examples of dual functionals in approximation theory and computer-aided geometric design are the blossom and the divided difference operator. Both of these dual functionals satisfy a similar set of formulas and identities. Moreover, the divided differences of polynomials can be expressed in terms of the blossom. In this paper, an extended non-polynomial homogeneous blossom for a wide collection of spline spaces, including trigonometric splines, hyperbolic splines, and special M\u00fcntz spaces of splines, is defined. It is shown that there is a relation between the non-polynomial divided difference and the blossom, which is analogous to the polynomial case.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21873v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Xifeng Su",
+      "Shasha Xu"
+    ],
+    "title": "Qualitative properties of positive solutions to mixed local and nonlocal critical problems in $\\mathbb{R}^n$",
+    "abstract": "We consider the following mixed local and non-local critical elliptic equation:\n  \\begin{equation*}\\label{0.1}\n  \\left\\{\n  \\begin{array}{lll}\n  -\u0394u+(-\u0394)^su=\u03bbh u^{p}+u^{2^*-1}, &\\text{in}\\,\\, \\mathbb{R}^n,\n  u>0, &\\text {in} \\,\\, \\mathbb{R}^n,\n  \\lim\\limits_{|x|\\to\\infty} u(x) = 0,\n  \\end{array}\n  \\right.\n  \\end{equation*} where $n\\geqslant4, \\,\\, p\\in (0,2^*-1),\\,\\, 2^*:=\\frac{2n}{n-2}$ and $h$ is a positive function.\n  We first show the existence and regularity results of viscosity solutions to the above critical elliptic equation. More precisely, from \\cite{Su-Xu} weak solutions are obtained and we prove they are indeed viscosity solutions and their regularity is: \\( u \\in C^\u03b1(\\mathbb{R}^n) \\) for $p\\in(0,1);$ \\( u \\in C^{2,\u03b2}(\\mathbb{R}^n) \\) for $p\\in [1, 2^*-1).$\n  Moreover, for $p\\in [1, 2^*-1)$, these viscosity solutions are indeed classical ones and we then prove the existence of positive solutions with the qualitative properties such as the decay estimates and the radial symmetry.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21864v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Simon Y. M. Gong",
+      "David G. L. Wang",
+      "K. Zhang"
+    ],
+    "title": "The trinacria graphs $T_{(b+2)b2}$ are $e$-positive",
+    "abstract": "In this paper, we identify a new family of $e$-positive graphs, called the trinacria graphs $T_{(b+2)b2}$, thereby providing a partial answer to Stanley's question on which graphs are $e$-positive. The trinacria graph $T_{abc}$ is the graph on $a+b+c+3$ vertices obtained by attaching paths $P_a$, $P_b$ and~$P_c$ to the vertices of a triangle, respectively. Our proof relies on several ad hoc combinatorial ideas, and employs divide-and-conquer techniques, charging arguments, and progressive repair methods.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21824v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Yilong Ma",
+      "Yamin Xiao"
+    ],
+    "title": "Orbital stability of solitary waves for the Schr odinger-Boussinesq system",
+    "abstract": "This paper studies the orbital stability of solitary waves for the following Schr\u00f6dinger-Boussinesq system \\begin{equation*} \\begin{cases} { \\begin{array}{ll} i\\varepsilon_t+\\varepsilon_{xx}=n\\varepsilon+\u03b3|\\varepsilon|^2\\varepsilon, \\\\ n_{tt}-n_{xx}+ \u03b1n_{xxxx}-\u03b2(n^2)_{xx}=|\\varepsilon|^2_{xx},\n  \\end{array} } (t,x)\\in \\mathbb{R}^2. \\end{cases} \\end{equation*} By applying the abstract results and detailed spectral analysis, we obtain the orbital stability of solitary waves. The result can be regarded as an extension of the results of \\cite{ F-P,H,W}.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21664v1",
+    "categories": [
+      "math.FA",
+      "math.PR"
+    ],
+    "authors": [
+      "Nizar El Idrissi",
+      "Hicham Zoubeir"
+    ],
+    "title": "Probability measure annihilating all finite-dimensional subspaces",
+    "abstract": "We construct a probability measure annihilating all finite-dimensional subspaces on an arbitrary infinite-dimensional Banach space.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21640v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "Tanmoy Bera",
+      "G. K. Viswanadham"
+    ],
+    "title": "Restriction estimates with sifted integers",
+    "abstract": "Let $\\mathcal{P}$ be a subset of primes and for each prime $p\\in \\mathcal{P}$, consider a subset $\\mathcal{L}_p$ of $\\mathbb{Z}/p\\mathbb{Z}$. We provide restriction estimates with integers $\\leq N$ sifted by $(\\mathcal{L}_p)_{\\substack{p\\leq z\\\\ p\\in \\mathcal{P}}}$. This generalizes a result of Green-Tao [3] on the restriction estimates.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21639v1",
+    "categories": [
+      "math.ST",
+      "cs.IT"
+    ],
+    "authors": [
+      "Nicholas G. Polson",
+      "Daniel Zantedeschi"
+    ],
+    "title": "Rational Inattention: A Bayesian Predictive Approach",
+    "abstract": "We recast rational inattention as a Bayesian predictive decision problem in which the agent reports a predictive distribution and is evaluated by a proper local scoring rule. This yields a direct link to rate-distortion theory and shows that Shannon entropy emerges endogenously as the honest local utility for predictive refinement. Bernardo's characterization of proper local scoring rules together with Shannon's amalgamation invariance imply that the logarithmic score, and hence mutual information, is the unique information measure consistent with coherent prediction under refinement of the state space. Information costs, therefore, need not be assumed: they arise as expected predictive utility. Within this framework we establish a supported complete-class result: the optimal policies are Gibbs-Boltzmann channels, with the classical rational-inattention family recovered as a special case. Canonical models appear as geometric specializations of the same structure, including multinomial logit (and IIA) under entropic regularization, James-Stein shrinkage as optimal capacity allocation in Gaussian learning, and linear-quadratic-Gaussian control as the capacity-optimal Gaussian channel. Overall, the Bayesian predictive formulation reframes bounded rationality as an optimal design principle: finite information capacity is an endogenous solution to a well-posed predictive problem, and behaviors often attributed to cognitive frictions, soft choice, regularization, sparsity, and screening arise as rational responses to the geometry of predictive refinement.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21631v1",
+    "categories": [
+      "math.RT"
+    ],
+    "authors": [
+      "Iryna Kashuba",
+      "Alexander Molev"
+    ],
+    "title": "Universal Capelli identities and quantum immanants for the queer Lie superalgebra",
+    "abstract": "We apply the recently introduced idempotents for the Sergeev superalgebra to construct quantum immanants for the queer Lie superalgebra ${\\mathfrak q}_N$ as central elements of its universal enveloping algebra. We prove universal odd and even Capelli identities for ${\\mathfrak q}_N$ and use them to calculate the images of the quantum immanants under the action of ${\\mathfrak q}_N$ in differential operators. We show that the Harish-Chandra images of the quantum immanants coincide with the factorial Schur $Q$-polynomials.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21630v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Manali Dutta",
+      "Rahul Singh",
+      "Shalabh Bhatnagar"
+    ],
+    "title": "Jointly Optimal Policies for Remote Estimation of Autoregressive Markov Processes over Time-Correlated Fading Channel",
+    "abstract": "We study a remote estimation setup with an autoregressive (AR) Markov process, a sensor, and a remote estimator. The sensor observes the process and sends encoded observations to the estimator as packets over an unreliable communication channel modeled as the Gilbert-Elliot (GE) channel. We assume that the sensor gets to observe the channel state by the ACK/NACK feedback mechanism only when it attempts a transmission while it does not observe the channel state when no transmission attempt is made. The objective is to design a transmission scheduling strategy for the sensor, and an estimation strategy for the estimator that are jointly optimal, i.e., they minimize the expected value of an infinite-horizon cumulative discounted cost defined as the sum of squared estimation error over time and the sensor's transmission power. Since the sensor and the estimator have access to different information sets, this constitutes a decentralized stochastic control problem. We formulate this problem as a partially observed Markov decision process (POMDP) and show the existence of jointly optimal transmission and estimation strategies that have a simple structure. More specifically, an optimal transmission strategy exhibits a threshold structure, i.e., the sensor attempts a transmission only when its belief about the channel being in a good state exceeds a threshold that depends on a certain error. Moreover, an optimal estimation strategy follows a `Kalman-like' update rule. When the channel parameters are unknown, we exploit this structure to design an actor-critic reinforcement learning algorithm that converges to a locally optimal policy. Simulations show the learned policy performs close to a globally optimal one, with about a 5.5% average relative gap across evaluated parameters.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21611v1",
+    "categories": [
+      "math.GR",
+      "math.CO"
+    ],
+    "authors": [
+      "Yuandong Li",
+      "Binzhou Xia",
+      "Jin-Xin Zhou"
+    ],
+    "title": "On automorphism groups of half-arc-transitive tetravalent graphs",
+    "abstract": "We characterize connected tetravalent graphs $\u0393$ which admit groups $M<H$ of automorphisms such that $\u0393$ is $M$-half-arc-transitive and $H$-arc-transitive. Examples for each case are constructed, including a counter-example to a question asked by A. R. Rivera and P. \u0160parl in 2019 as well as the first example of tetravalent normal-edge-transitive non-normal Cayley graph on a nonabelian simple group.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21590v1",
+    "categories": [
+      "math.CV"
+    ],
+    "authors": [
+      "Yun Gao"
+    ],
+    "title": "Some results related to Macaulay's Theorem about Hilbert functions and applications",
+    "abstract": "Let $I$ be a homogeneous ideal in the polynomial ring $R = k[z_1, \\cdots, z_n]$ , where $k$ is an algebraically closed field of characteristic zero. Macaulay's Theorem provides constraints on the Hilbert function of $I$ or $R/I$ from one degree to the next.\n  Nowadays, the standard quotation of Macaulay's theorem is $H_{R/I}(d + 1) \\le H_{R/I}(d)^{\\langle d\\rangle}$, which is regarding the quotient $R/I$ and the combinatorial computation in the formula involves the number $d$ explicitly. However, the origin statement of Macaulay is in fact regarding the Hilbert function of $I$ itself and the relevant combinatorics explicitly involves the number of variables (i.e. $n$) and does not depend on $d$.\n  In this paper, we provide an elementary proof of the equivalence between these two versions of Macaulay's theorem. The original degree-independent version is more suitable for problems such as those involving sums of polynomial squared norms.\n  Motivated by the Hermitian analogue of Hilbert's 17th problem and proper holomorphic mappings between complex unit balls, some questions lead to the study of Hermitian polynomials $M(z, \\bar{z}) \\in \\mathbb{C}[z_1, \\ldots, z_n, \\bar{z}_1, \\ldots, \\bar{z}_n]$ satisfying $M(z, \\bar{z})\\|z\\|^{2l} = \\|h\\|^2$ for some $l$ and a holomorphic mapping $h = (h_1, \\cdots, h_R)$ . Using Macaulay's Theorem, we derive new inequalities relating $n$, $l$, the signature $(p, q)$ of the coefficient matrix of $M(z, \\bar{z})$ , and $R$ (the rank of $M(z, \\bar{z})\\|z\\|^{2l}$ ) and extend these results to norms of arbitrary signatures, which hold uniformly for all bidegrees of $M(z, \\bar{z})$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21554v1",
+    "categories": [
+      "math.CA"
+    ],
+    "authors": [
+      "Pierluigi Benevieri",
+      "Guglielmo Feltrin"
+    ],
+    "title": "Continuation theorems for periodic systems and applications to problems with nonlinear time-dependent differential operators",
+    "abstract": "In this paper we propose some continuation theorems for the periodic problem \\begin{equation*} \\begin{cases} \\, x_{i}' = g_{i}(t,x_{i+1}), &i=1,\\ldots,n-1, \\\\ \\, x_{n}' = h(t,x_{1},\\ldots,x_{n}), \\\\ \\, x_{i}(0)=x_{i}(T), &i=1,\\ldots,n, \\end{cases} \\end{equation*} providing a unified framework that improves and extends earlier contributions by Jean Mawhin and collaborators to second-order differential problems governed by nonlinear time-dependent differential operators of the form \\begin{equation*} \\begin{cases} \\, (\u03c6(t,x'))'=f(t,x,x'), \\\\ \\, x(0)=x(T),\\quad x'(0)=x'(T). \\end{cases} \\end{equation*} The proof is based on the topological degree theory.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21539v1",
+    "categories": [
+      "math-ph",
+      "hep-th",
+      "nlin.CD",
+      "q-fin.CP"
+    ],
+    "authors": [
+      "Igor V. Ovchinnikov"
+    ],
+    "title": "Chaos, Ito-Stratonovich dilemma, and topological supersymmetry",
+    "abstract": "It was recently established that the formalism of the generalized transfer operator (GTO) of dynamical systems (DS) theory, applied to stochastic differential equations (SDEs) of arbitrary form, belongs to the family of cohomological topological field theories (TFT) -- a class of models at the intersection of algebraic topology and high-energy physics. This interdisciplinary approach, which can be called the supersymmetric theory of stochastic dynamics (STS), can be seen as an algebraic dual to the traditional set-theoretic framework of the DS theory, with its algebraic structure enabling the extension of some DS theory concepts to stochastic dynamics. Moreover, it reveals the presence of a topological supersymmetry (TS) in the GTOs of all SDEs. It also shows that among the various definitions of chaos, positive \"pressure\", defined as the logarithm of the GTO spectral radius, stands out as particularly meaningful from a physical perspective, as it corresponds to the spontaneous breakdown of TS on the TFT side. Via the Goldstone theorem, this definition has a potential to provide the long-sought explanation for the experimental signature of chaotic dynamics known as 1/f noise. Additionally, STS clarifies that among the various existing interpretations of SDEs, only the Stratonovich interpretation yields evolution operators that match the corresponding GTOs and, consequently, have a clear-cut mathematical meaning. Here, we discuss these and other aspects of STS from both the DS theory and TFT perspectives, focusing on links between these two fields and providing mathematical concepts with physical interpretations that may be useful in some contexts.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21502v1",
+    "categories": [
+      "math-ph",
+      "math.PR",
+      "quant-ph"
+    ],
+    "authors": [
+      "Chokri Manai"
+    ],
+    "title": "Quantum Mean-Fields Spin Systems in a Random External Field",
+    "abstract": "In this work, we consider general exchangeable quantum mean-field Hamiltonian such as the prominent quantum Curie-Weiss model under the influence of a random external field. Despite being arguably the simplest class of disordered quantum systems, the random external field breaks the symmetry of the mean-field Hamiltonian and hence standard quantum de Finetti type or semiclassical arguments are not directly applicable. We introduce a novel strategy in this context, which can be seen as non-commutative large deviation analysis, allowing us to characterize the limiting free energy in terms of a simple and explicit variational formula. The proposed method is general enough to be used for other classes of mean-field models such as multi species Hamiltonians.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21496v1",
+    "categories": [
+      "math.DG"
+    ],
+    "authors": [
+      "Haiping Fu",
+      "Yao Lu"
+    ],
+    "title": "New rigidity theorem of Einstein manifolds and curvature operator of the second kind",
+    "abstract": "Using Bochner techniques, we prove that a compact Einstein manifold of dimension $n \\ge 4$ has constant curvature provided that the curvature operator of the second kind satisfies a cone condition that is strictly weaker than nonnegativity. Furthermore, employing a result of Li \\cite{Li5}, we establish that any closed Einstein manifold of dimension $n \\ge 4$ satisfying\n  \\[k^{-1}({\u03bb}_1+\\cdots +{\u03bb}_k)\\ge -\u03b8(n,k) \\bar{\u03bb},\\quad \\text{for some} \\quad k \\le [\\frac{n+2}{4}]\\]\n  must be either flat or a spherical space form. Here, ${\u03bb}_1\\le {\u03bb}_2\\le \\cdots \\le {\u03bb}_{\\frac{(n-1)(n+2)}{2}}$ are the eigenvalues of $\\mathring{R}\\,$, $\\bar{\u03bb}$ is their average, and $\u03b8(n,k)$ is a positive constant. This result generalizes the work of Dai-Fu \\cite{DF} and Chen-Wang \\cite{CW1,CW}.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21489v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Dinh D\u0169ng"
+    ],
+    "title": "Laguerre- and Laplace-weighted integration of mixed-smoothness functions",
+    "abstract": "We investigate the approximation of generalized Laguerre- or Laplace-weighted integrals over $\\mathbb{R}^d_+$ or $\\mathbb{R}^d$ of functions from generalized Laguerre- or Laplace-weighted Sobolev spaces of mixed smoothness, respectively. We prove upper and lower bounds of the convergence rate of optimal quadratures with respect to $n$ integration nodes for functions from these spaces. The upper bound is performed by sparse-grid quadratures with integration nodes on step hyperbolic corners or hyperbolic crosses in the function domain $\\mathbb{R}^d_+$ or $\\mathbb{R}^d$, respectively.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21488v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "Liang Geng",
+      "Wei He",
+      "Rongwei Yang"
+    ],
+    "title": "The Density of Primes in the Eigensurface of ${\\bf S}_3$",
+    "abstract": "The Prime Number Theorem asserts that the density of primes less than or equal to $N$ is asymptotically equal to $1/\\log N$. The density of prime triples in coprime triples in $\\mathbb{Z}^3_+$ is determined to be $3\u03b6(3)/\\log N$, where $\u03b6$ is the Riemann zeta function. In this paper, we prove that the density of prime triples in coprime triples in the surface $S=\\{z_0^{2} - z_1^{2} + z_2^{2} - z_0z_2=0\\}$ is greater than $3\u03b6(3)/\\log N$, meaning that $S$ meets primes more frequently. This surface is the eigensurface of the symmetric group ${\\bf S}_3$ with respect to an irreducible representation.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21463v1",
+    "categories": [
+      "math.GT"
+    ],
+    "authors": [
+      "Atreyee Bhattacharya",
+      "Satyajit Maity",
+      "Kashyap Rajeevsarathy"
+    ],
+    "title": "Fenchel-Nielsen coordinates of the branch loci of cyclic actions",
+    "abstract": "Let $S_g$ be a closed, connected, and oriented smooth surface of genus $g\\geq 2$. Let the mapping class group of $S_g$ be denoted by $\\mathrm{Mod}(S_g)$ and the Teichm\u00fcller space of $S_g$ by $\\mathrm{Teich}(S_g)$. It is known that $\\mathrm{Mod}(S_g)$ acts by isometries on $\\mathrm{Teich}(S_g)$ with respect to the Weil-Petersson metric. In this paper, we develop algorithms to describe the Fenchel-Nielsen coordinates of fixed points of the actions of certain finite cyclic subgroups of $\\mathrm{Mod}(S_g)$ on $\\mathrm{Teich}(S_g)$. As applications of these algorithms, we compute the Fenchel-Nielsen coordinates of the fixed points of three cyclic subgroups of orders $10$, $8$, and $4$, in $\\mathrm{Mod}(S_2)$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21458v1",
+    "categories": [
+      "math.GT"
+    ],
+    "authors": [
+      "Jiaxin Huang",
+      "Youlin Li",
+      "Zaiting Xu"
+    ],
+    "title": "Non-loose torus knots in $S^1\\times S^2$",
+    "abstract": "In this paper, we present a complete coarse classification of non-loose Legendrian and transverse torus knots in any contact structure on $S^1\\times S^2$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21449v1",
+    "categories": [
+      "math.AC",
+      "math.CO"
+    ],
+    "authors": [
+      "Takayuki Hibi",
+      "Francesco Navarra",
+      "Ayesha Asloob Qureshi",
+      "Sara Saeedi Madani"
+    ],
+    "title": "Minimal primes and radicality of ideals generated by adjacent 2-minors",
+    "abstract": "In this paper, we provide a complete description of the minimal primes of ideals generated by adjacent $2$-minors, in terms of the so-called admissible sets and associated lattice ideals. We prove that for these ideals, the properties of being unmixed, Cohen-Macaulay, level, Gorenstein, and complete intersection are equivalent. Moreover, we give a combinatorial characterization of all convex collections of cells satisfying any of these equivalent properties. Finally, we study the radicality of these ideals and derive necessary combinatorial conditions based on minimal non-radical configurations.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21443v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "S. M. Mallikarjunaiah"
+    ],
+    "title": "An $hp$-adaptive finite element framework for static cracks: The impact of pointwise density variations on mode I, mode II, and mixed-mode fracture",
+    "abstract": "A robust $hp$-adaptive finite element framework is presented for the investigation of static cracks in materials characterized by complex, pointwise density variations. Within such heterogeneous media, the equilibrium equation governed by the divergence of the stress tensor is reduced to a vector-valued quasilinear partial differential equation, wherein significant gradients and nonlinearities are introduced into the governing constitutive relations by spatial density variations. To ensure that these localized field variables are accurately captured, an automated $hp$-refinement strategy is implemented so that element sizes ($h$) and polynomial degrees ($p$) are concurrently optimized. A dual-indicator approach is employed by the framework. In this approach, $h$-refinement is driven by the Kelly error estimator, which utilizes the jump of the normal derivative across element interfaces, while $p$-refinement is determined by the decay of Legendre-Fourier coefficients to assess the local smoothness of the solution. Optimal convergence rates are ensured by this dual-refinement strategy, particularly within the singular regions surrounding the crack tip where material heterogeneities and geometric discontinuities intersect. The performance of the proposed method is rigorously evaluated across three distinct loading regimes: pure tensile (Mode I), pure shear (Mode II), and mixed-mode loading. It is demonstrated through numerical simulations that the intricate interaction between the fracture process zone and the underlying material heterogeneities is effectively resolved by the $hp$-adaptive scheme. Furthermore, the influence of specific density-dependent constitutive relations on the resulting crack-tip stress fields and strain energy density distributions is analyzed in detail.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21361v1",
+    "categories": [
+      "math.CA"
+    ],
+    "authors": [
+      "Olena Atlasiuk",
+      "Vladimir Mikhailets",
+      "Jari Taskinen"
+    ],
+    "title": "Parameter-dependent inhomogeneous boundary-value problems in Sobolev spaces",
+    "abstract": "We study a wide class of linear inhomogeneous boundary-value problems for $r$th order ODE-systems depending on a parameter $\u03bc$ in a general metric space $\\mathcal M$. The solutions belong to the Sobolev spaces $(W^{n+r}_p)^m$, $n\\in\\mathbb{N}\\cup\\{0\\}$, $m, r \\in \\mathbb{N}$, $1\\leq p\\leq \\infty$. The boundary conditions are of a most general form $By=c$, where $B$ is an arbitrary continuous operator from $(W^{n+r}_p)^m$ to $\\mathbb{C}^{rm}$. They may thus contain derivatives of the unknown vector function of integer and/or fractional orders $\\geq r$. We find necessary and sufficient conditions for the continuity of solutions with respect to the parameter $\u03bc$. We also prove that the solutions of the original problems can be approximated in the space $(W^{n+r}_p)^m$ by solutions of ODE-systems with polynomial coefficients and multipoint boundary conditions, which do not depend on the right-hand sides of the original problem.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21548v1",
+    "categories": [
+      "math.AP",
+      "math-ph"
+    ],
+    "authors": [
+      "Xinliang An",
+      "Haoyang Chen",
+      "Fulin Qi",
+      "Wenze Su"
+    ],
+    "title": "Shock Formation for Compressible Euler Equations on $\\mathbb{S}^2$",
+    "abstract": "In this paper, we prove the finite-time shock formation for the compressible Euler equations on the two-dimensional sphere $\\mathbb{S}^2$. In contrast to the flat Euclidean case $\\mathbb{R}^2$, the geometry of $\\mathbb S^2$ imposes new difficulties, and the fluid dynamics are affected by the curved background. To overcome these challenges, we modify the existing modulation method and employ a set of carefully constructed, time-dependent coordinates that precisely track the shock formation on $\\mathbb{S}^2$. In particular, we first perform a time-dependent rotation of $\\mathbb S^2$, then apply the stereographic projection to the sphere, straighten the steepening shock front, and finally construct shock-adapted coordinates. In the shock-adapted coordinates, the compressible Euler equations on $\\mathbb{S}^2$ can be recast into a form suitable for self-similar analysis. Within this framework, we implement a detailed bootstrap argument and establish global well-posedness for the self-similar system. After transferring these results back to the original physical system, we thereby demonstrate the finite-time shock formation on $\\mathbb{S}^2$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21350v1",
+    "categories": [
+      "math.OC",
+      "math.PR"
+    ],
+    "authors": [
+      "Shreehari Anand Bodas",
+      "Harsha Honnappa",
+      "Michel Mandjes",
+      "Liron Ravner"
+    ],
+    "title": "A stochastic optimization algorithm for revenue maximization in a service system with balking customers",
+    "abstract": "This paper analyzes a service system modeled as a single-server queue, in which the service provider aims to dynamically maximize the expected revenue per unit of time. This is achieved by constructing a stochastic gradient descent algorithm that dynamically adjusts the price. A key feature of our modeling framework is that customers may choose to balk - that is, decide not to join - when facing high congestion. A notable strength of our approach is that the revenue-maximizing algorithm relies solely on information about effective arrivals, meaning that only the behavior of customers who choose not to balk is observable and used in decision-making. This results in an elaborate interplay between the pricing policy and the effective arrival process, yielding a non-standard state dependent queueing process. An important contribution of our work concerns a novel Infinitesimal Perturbation Analysis (IPA) procedure that is able to consistently estimate the stationary effective arrival rate. This is further leveraged to construct an iterative algorithm that converges, under mild regularity conditions, to the optimal price with provable asymptotic guarantees.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21603v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Toshiya Yurikusa"
+    ],
+    "title": "Finite type and completeness of $g$-fans",
+    "abstract": "We study the $g$-fan associated with a skew-symmetrizable matrix in the sense of cluster algebras. We show that a skew-symmetrizable matrix is of finite type if and only if its $g$-fan is complete; equivalently (as we show), its support contains all lattice points.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21585v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Lijun Bo",
+      "Dongfang Yang",
+      "Shihua Wang"
+    ],
+    "title": "Dynamic Data Pricing: A Mean Field Stackelberg Game Approach",
+    "abstract": "This paper studies the dynamic pricing mechanism for data products in demand-driven markets through a game-theoretic framework. We develop a three-tier Stackelberg game model to capture the hierarchical strategic interactions among key market entities: a single data buyer, an intermediary broker, and a competitive seller group. To characterize the temporal dynamics of data quality evolution, we establish a coupled system of stochastic differential equations (SDEs) where sellers' quality investments interact through mean field effects. Given exogenous pricing policies, we derive approximate Nash equilibrium adjustment strategies for competitive sellers using the mean field game (MFG) approach. The broker's optimal pricing strategy is subsequently established by solving a Stackelberg leadership problem, while the buyer's procurement policy is determined through an optimal control formulation involving conditional mean field forward-backward SDEs (FBSDEs). Under some regularity conditions, the proposed strategies are shown to collectively form an $(\u03b5_1,\u03b5_2,\u03b5_3)$-Stackelberg equilibrium.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21565v1",
+    "categories": [
+      "math.AC",
+      "math.AG"
+    ],
+    "authors": [
+      "Takaaki Ito"
+    ],
+    "title": "Non-finite generatedness of the congruences defined by tropical varieties",
+    "abstract": "In tropical geometry, there are several important classes of ideals and congruences such as tropical ideals, bend congruences, and the congruences of the form $\\mathbf E(Z)$. Although they are analogues of the concept of ideals of rings, it is not well known whether they are finitely generated. In this paper, we study whether the congruences of the form $\\mathbf E(Z)$ are finitely generated. In particular, we show that when $Z$ is the support of a tropical variety, $\\mathbf E(Z)$ is not finitely generated except for a few specific cases. In addition, we give an explicit minimal generating set of $\\mathbf E(|L|)$ for the tropical standard line $L$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21536v1",
+    "categories": [
+      "math.AP",
+      "math-ph"
+    ],
+    "authors": [
+      "Yuan Li",
+      "Qiaoyuan Cheng",
+      "Engui Fan"
+    ],
+    "title": "Existence of global solutions to the Fokas-Lenells equation with arbitrary spectral singularities",
+    "abstract": "We establish the global existence of solutions to the Fokas-Lenells equation for any initial data in a weighted Sobolev space $H^{3}(\\mathbb{R})\\cap H^{2,1}(\\mathbb{R})$.This result removes all spectral restrictions on the initial data required in our previous work.\n  The proof primarily relies on the inverse scattering transform formulated as new Riemann-Hilbert problems and Zhou's $L^{2}$-Sobolev bijectivity theory.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21518v1",
+    "categories": [
+      "math.DG"
+    ],
+    "authors": [
+      "Kentaro Saji",
+      "Masaaki Umehara",
+      "Kotaro Yamada"
+    ],
+    "title": "Explicit analytic functions defining the images of wave-front singularities",
+    "abstract": "We give explicit real-analytic functions whose zero sets characterize the images of the standard maps of wave-front singularities. Such functions are realizations of the main-analytic sets in the sense of Ishikawa-Koike-Shiota (1984). More concretely, a subset of Euclidean space is called a global main-analytic set if it can be described, up to a set of smaller Hausdorff dimension, as part of the zero set of a single real-analytic function, referred to as its main-analytic function.\n  In this paper, we propose a general framework for constructing main-analytic functions by a method based on explicit resultant computations. In particular, we provide explicit formulas for the main-analytic functions associated with the standard maps of wave-front singularities of types A, D and E.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21492v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Toshio Horiuchi"
+    ],
+    "title": "On general Caffarelli-Kohn-Nirenberg type inequalities involving non-doubling weights in the case of $p=1$",
+    "abstract": "We study the Caffarelli-Kohn-Nirenberg type inequalities in the case of $p=1$ and generalize them adopting weight functions\n  $w(|x|)$ on $R^n$ with $w(t)$ in ${W}(R_+)$. Here ${W}(R_+)$ is a general class of weight functions on $R_+$ including non-doubling weights like $e^{1/t}$ and $e^{-1/t}$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21427v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "Sambhabi Bose",
+      "Kevin J. McGown",
+      "Ishan Panpaliya",
+      "Natalie Welling",
+      "Laney Williams"
+    ],
+    "title": "Counting $C_2 \\wr S_4$ fields with a power saving error term",
+    "abstract": "Let $N_d(G,X)$ denote the number of degree $d$ extensions of $\\mathbb{Q}$ with Galois closure $G$ and $|\u0394_K|\\leq X$. Malle's conjecture predicts an asymptotic of the form $N_d(G,X)\\sim CX^\u03b1(\\log X)^\u03b2$. Previously, Kl\u00fcners proved Malle's conjecture for $G=C_2 \\wr S_4$. His proof gives a power savings of $O(X^{7/8})$. We improve Kl\u00fcners' result by establishing a stronger power saving error term for the count of such fields. Specifically, we show $N_8(C_2\\wr S_4,X)=CX+O(X^{3/4-1/30})$. Additionally, we obtain new bounds on $N_8(G,X)$ for the groups $S_4$, $C_2^3 \\rtimes S_4$, $GL_2 (\\mathbb{F}_3)$, and $Q_8\\rtimes S_4$ as permutation subgroups of $S_8$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21423v1",
+    "categories": [
+      "math-ph",
+      "math.AP",
+      "quant-ph"
+    ],
+    "authors": [
+      "Kabir Narayanan",
+      "Abigail Perryman",
+      "A. Shadi Tahvildar-Zadeh"
+    ],
+    "title": "Asymptotic Momentum of Dirac Particles in One Space Dimension",
+    "abstract": "We analyze the trajectories of a massive particle in one space dimension whose motion is guided by a spin-half wave function that evolves according to the free Dirac equation, with its initial wave function being a Gaussian wave packet with a nonzero expected value of momentum $k$ and the positive expected value of energy $E = \\sqrt{m^2+k^2}$. We prove that at large times, the wave function becomes {\\em locally} a plane wave, which corresponds to trajectories with fixed values for asymptotic momentum $k$ and asymptotic energy $E$ or $-E$. The sign of the asymptotic energy is determined by the initial position of the particle. Particles with negative energy will have an asymptotic velocity that is in the opposite direction of their momentum.\n  The proof uses the stationary phase approximation method, for which we establish a rigorous error bound.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21838v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Xiaoda Xu"
+    ],
+    "title": "Weighted $L_p$-Discrepancy Bounds for Parametric Stratified Sampling and Applications to High-Dimensional Integration",
+    "abstract": "This paper studies the expected $L_p$-discrepancy ($2 \\leq p < \\infty$) for stratified sampling schemes under importance sampling. We introduce a parametric family of equivolume partitions $\u03a9_{\u03b8,\\sim}$ and leverage recent exact formulas for the expected $L_2$-discrepancy \\cite{xian2025improved}. Our main contribution is a weighted discrepancy reduction lemma that relates weighted $L_p$-discrepancy to standard $L_p$-discrepancy with explicit constants depending on the weight function. For $p=2$, we obtain explicit bounds using the exact discrepancy formulas. For $p>2$, we derive probabilistic bounds via dyadic chaining techniques. The results yield uniform error estimates for multivariate integration in Sobolev spaces $\\mathcal{H}^1(K)$ and $F^*_{d,q}$, demonstrating improved performance over classical jittered sampling in importance sampling scenarios. Numerical experiments validate our theoretical findings and illustrate the practical advantages of parametric stratified sampling.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21812v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "James Saunderson"
+    ],
+    "title": "Sparsification of sums with respect to convex cones",
+    "abstract": "Let $x_1,x_2,\\ldots,x_m$ be elements of a convex cone $K$ such that their sum, $e$, is in the relative interior of $K$. An $\u03b5$-sparsification of the sum involves taking a subset of the $x_i$ and reweighting them by positive scalars, so that the resulting sum is $\u03b5$-close to $e$, where error is measured in a relative sense with respect to the order induced by $K$. This generalizes the influential spectral sparsification model for sums of positive semidefinite matrices.\n  This paper introduces and studies the sparsification function of a convex cone, which measures, in the worst case over all possible sums from the cone, the smallest size of an $\u03b5$-sparsifier. The linear-sized spectral sparsification theorem of Batson, Spielman, and Srivastava can be viewed as a bound on the sparsification function of the cone of positive semidefinite matrices. This result is generalized to a family of convex cones (including all hyperbolicity cones) that admit a $\u03bd$-logarithmically homogeneous self-concordant barrier with certain additional properties. For these cones, the sparsification function is bounded above by $\\lceil4\u03bd/\u03b5^2\\rceil$. For general convex cones that only admit an ordinary $\u03bd$-logarithmically homogeneous self-concordant barrier, the sparsification function is bounded above by $\\lceil(4\u03bd/\u03b5)^2\\rceil$. Furthermore, the paper explores how sparsification functions interact with various convex geometric operations (such as conic lifts), and describes implications of sparsification with respect to cones for certain conic optimization problems.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21802v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Kensuke Yoshizawa"
+    ],
+    "title": "Obstacle problems for the elastic flow and related topics",
+    "abstract": "In this note, we study an obstacle problem for the elastic flow. We prove the local-in-time existence of weak solutions and discuss their relation to classical solutions when additional regularity is obtained. Related results concerning obstacle problems for the bending energy are also collected.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21800v1",
+    "categories": [
+      "math.CO",
+      "math.AC"
+    ],
+    "authors": [
+      "Alexander Engstr\u00f6m"
+    ],
+    "title": "Chromatic numbers from edge ideals: Graph classes with vanishing syzygies are polynomially $\u03c7$-bounded",
+    "abstract": "The chromatic number $\u03c7$ of a graph is bounded from below by its clique number $\u03c9,$ but it can be arbitrary large. Perfect graphs are defined by $\u03c7=\u03c9$ for all induced subgraphs. An interesting relaxation are $\u03c7$-bounded graph classes, where $\u03c7\\leq f(\u03c9).$ It is not always possible to achieve this with a polynomial $f.$\n  The edge ideal $I_G$ of a graph $G$ is generated by monomials $x_ux_v$ for each edge $uv$ of $G.$ The bi-graded betti numbers $\u03b2_{i,j}(I)$ are central algebraic geometric invariants. We study the graph classes where for some fixed $i,j$ that syzygy vanishes, that is, $\u03b2_{i,j}(I_G)=0.$\n  We prove that $\u03c7\\leq f(\u03c9),$ where $f$ is a polynomial of degree $2j-2i-4.$ For the elementary special case $\u03b2_{i,2i+2}(I_G)=0,$ this amounts to that $(i+1)K_2$-free graphs are ${\u03c9-1+2i \\choose 2i}$-colorable, improving on an old combinatorial result by Wagon. We also show that triangle-free graphs with $\u03b2_{i,j}(I_G)=0$ are $(j-1)$-colorable.\n  Complexity wise, we show that these colorings can be derived in time $O(n^3)$ for graphs on $n$ vertices. Moreover, we show that for almost all graphs with parabolic $i,j,$ there are better bounds on $\u03c7.$",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21785v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Dean Rubine"
+    ],
+    "title": "Computing the 4D Geode",
+    "abstract": "The closed form for the hyper-Catalan number C[m2,m3,m4,...], which counts the number of subdivisions of a roofed polygon into m2 triangles, m3 quadrilaterals, m4 pentagons, etc., has been known since 1940. In 2025, Wildberger and Rubine showed its generating series S[t2,t3,t4,...] is a zero of the general geometric univariate polynomial. They note the factorization S=(t2 + t3 + t4 + ...)G, where the factor G is called the Geode. Later in 2025, Amderberhan, Kauers and Zeilberger issued a challenge to compute G[1000,1000,1000,1000], the coefficient of $t_2^{1000}t_3^{1000}t_4^{1000}t_5^{1000}$ in G. The reward is a donation to OEIS. We describe the computation, give the value and claim the reward.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21752v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Subha Pal",
+      "Sarath Sasi"
+    ],
+    "title": "Principal eigenvalues and asymptotic behavior for the weighted $p$-Laplacian with Robin boundary conditions on exterior domains",
+    "abstract": "The spectral theory of the p-Laplacian is well developed for classical Dirichlet and Neumann boundary conditions, but the transitional Robin regime on exterior domains remains largely unexplored. This paper studies a weighted p-Laplacian eigenvalue problem with Robin boundary conditions on the exterior of the unit ball in Euclidean space of dimension N, with N greater than p. The weight function belongs to a critical Lorentz class and decays at infinity. Under natural assumptions on the weight, we prove the existence, uniqueness, simplicity, and isolation of a positive principal eigenvalue and establish local first-order regularity of the associated eigenfunction. We analyze the dependence of the principal eigenvalue on the Robin parameter and recover the Neumann and Dirichlet limits as the parameter approaches zero and infinity, respectively. The far-field behavior of the eigenfunction exhibits a universal algebraic decay rate that is independent of the Robin parameter, while the near-boundary structure displays an explicit scaling with respect to the parameter. We further investigate the gradient behavior of the eigenfunction, showing the existence of a unique critical radius and providing quantitative bounds on both the critical radius and the boundary value in terms of the Robin parameter. The main contribution of this work is the derivation of unified gradient estimates that connect the near-boundary and far-field regions through a characteristic length scale determined by the Robin parameter, yielding a global description of how boundary effects penetrate into the exterior domain.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21750v1",
+    "categories": [
+      "math.QA",
+      "math-ph"
+    ],
+    "authors": [
+      "B. Feigin",
+      "M. Jimbo",
+      "E. Mukhin"
+    ],
+    "title": "Extensions of a commuting pair of quantum toroidal $\\mathfrak{gl}_1$",
+    "abstract": "We introduce a family of algebras $\\mathcal{A}_{M,N}$, $M,N\\in\\mathbb{Z}$, as an extension of a pair of commuting quantum toroidal $\\mathfrak{gl}_1$ subalgebras $\\mathcal{E}_1,\\check{\\mathcal{E}}_1$, wherein the parameters are tuned in a specific way according to $M,N$. In the case $M=\\pm 1$, algebra $\\mathcal{A}_{\\pm1,N}$ is a shifted quantum toroidal $\\mathfrak{gl}_2$ algebra introduced in [FJM2]. Conjecturally there is a coproduct homomorphism $\\mathcal{A}_{M,N_1+N_2}\\to\\mathcal{A}_{M,N_1}\\hat\\otimes\\mathcal{A}_{M,N_2}$ to a completed tensor product, whose restriction to the subalgebras $\\mathcal{E}_1,\\check{\\mathcal{E}}_1$ coincides with the standard coproduct of the latter. We give examples of $\\mathcal{A}_{M,N}$ modules constructed on certain direct sums of tensor products of Fock modules of $\\mathcal{E}_1\\otimes\\check{\\mathcal{E}}_1$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21726v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Dennis Gaitsgory",
+      "Nick Rozenblyum",
+      "Yakov Varshavsky"
+    ],
+    "title": "Applications of (higher) categorical trace I: the definition of AGCat",
+    "abstract": "In this paper we record the formalism of algebro-geometric DG categories (in short AGCat) following a suggestion of V. Drinfeld. This formalism will be applied to ``real-world\" problems in papers sequel to this one, [GRV2] and [GRV3].",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21700v1",
+    "categories": [
+      "math.ST",
+      "stat.CO",
+      "stat.ME"
+    ],
+    "authors": [
+      "Xueying Sun",
+      "Ting Yan",
+      "Binyan Jiang"
+    ],
+    "title": "Inference in the $p_0$ model for directed networks under local differential privacy",
+    "abstract": "We explore the edge-flipping mechanism, a type of input perturbation, to release the directed graph under edge-local differential privacy. By using the noisy bi-degree sequence from the output graph, we construct the moment equations to estimate the unknown parameters in the $p_0$ model, which is an exponential family distribution with the bi-degree sequence as the natural sufficient statistic. We show that the resulting private estimator is asymptotically consistent and normally distributed under some conditions. In addition, we compare the performance of input and output perturbation mechanisms for releasing bi-degree sequences in terms of parameter estimation accuracy and privacy protection. Numerical studies demonstrate our theoretical findings and compare the performance of the private estimates obtained by different types of perturbation methods. We apply the proposed method to analyze the UC Irvine message network.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21918v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Misir J. Mardanov",
+      "Telman K. Melikov",
+      "Samin T. Malik"
+    ],
+    "title": "On sufficient conditions in the classical problem of the calculus of variations",
+    "abstract": "This article is devoted to obtain new sufficient conditions for an extremum in problems of classical calculus of variations. The concept of a set of integrands is introduced. Using this concept, first and second order sufficient conditions for a weak and strong local minimum, as well as an absolute minimum were obtained. Also, this concept, in particular, allows us to define a class of variation problems for which the necessary Weierstrass condition is also sufficient condition. It is shown that the sufficient conditions for a minimum obtained here have new areas of application compared to the known sufficient conditions of the classical calculus of variations. The effectiveness of the obtained results is illustrated by examples.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21904v1",
+    "categories": [
+      "math.DG",
+      "math.AG",
+      "math.CV"
+    ],
+    "authors": [
+      "Alexander Bednarek"
+    ],
+    "title": "Fano Fibrations and Twisted K\u00e4hler-Einstein Metrics I",
+    "abstract": "This is the first of two papers studying both the geometric structure of Fano fibrations and the application to K\u00e4hler-Ricci flows developing a singularity in finite time. Given a Fano fibration which is generated by Kawamata's theorem from a compact K\u00e4hler manifold $X$ endowed with an ample, rational line bundle $L$ and non-nef canonical line bundle $K_X$, we construct a $(1,1)$-form on the regular part of the base analytic variety which is related to the Weil-Petersson metric. It is also proven that the singular K\u00e4hler metric constructed by Zhang, Zhang, on the base analytic variety satisfies a twisted K\u00e4hler-Einstein equation involving this $(1,1)$-form and, for a submersion, that the Chern classes of $X$ and the base manifold decompose in terms of this $(1,1)$-form.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21656v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Yingying Yu",
+      "Yashu Liu",
+      "Jiaxuan Li",
+      "Xin Li",
+      "Ye Ji",
+      "Chungang Zhu"
+    ],
+    "title": "Regularity analysis and verification of Coons volume mappings",
+    "abstract": "The Coons volume provides a classical approach for constructing three-dimensional parametric mappings via boundary surface interpolation and is widely employed in volumetric mesh generation, computer-aided geometric design, and isogeometric analysis. However, due to curvature variations and continuity limitations of the boundary surfaces, the Jacobian determinant of a Coons volume may locally vanish or become negative, resulting in a non-regular mapping. This undermines mesh quality and compromises the stability of subsequent numerical computations. Ensuring the regularity of Coons volumes is therefore critical for robust parametric modeling. This paper develops a systematic framework for analyzing and verifying the regularity of Coons volumes. We first derive a general sufficient condition applicable to arbitrary boundary parameterizations, independent of specific analytical forms. For B\u00e9zier-form Coons volumes, we introduce a criterion based on the B\u00e9zier coefficients of the Jacobian determinant, transforming the verification problem into checking the positivity of control coefficients. Furthermore, we construct a necessary condition by applying a subdivision strategy combined with the B\u00e9zier blossoming technique, ensuring that regularity is preserved in all subdomains. By integrating these conditions, we design an efficient verification algorithm whose correctness and computational performance are validated through numerical experiments. We observe that the regularity of a Coons volume is closely related to the geometric similarity of its opposite boundary surfaces. Moreover, through B\u00e9zier extraction, the algorithm is extended to multi-patch B-spline volumes of arbitrary topology. Numerical tests show that the method completes regularity verification in milliseconds, enabling real-time application.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21530v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Icey Siyi Ai",
+      "Maria Chudnovsky",
+      "Julien Codsi"
+    ],
+    "title": "Localized Erd\u0151s-P\u00f3sa Property for Subdivisions",
+    "abstract": "For a graph $H$, we say that $H$ has the Erd\u0151s-P\u00f3sa property for subdivisions with function $f$, if for every graph $G$, either $G$ contains (as a subgraph) $k+1$ pairwise disjoint subdivisions of $H$ or there exists a set $X\\subseteq G$ such that $G\\setminus X$ contains no $H$-subdivision and $|X|\\leq f(k)$. We show that every $H$ that has the \\EP property for subdivision also satisfies a localized version of the \\EP property, as follows. Let $H$ be an $n$-vertex graph with $m\\geq 1$ edges that has the Erd\u0151s-P\u00f3sa property for subdivisions with function $f$, and let $G$ be a graph that does not contain $k+1$ disjoint subdivisions of $H$. We demonstrate the existence of a set of at most $k$ vertex disjoint subdivisions of $H$ in $G$ such that in their union, we can find a set $X$ with the property that $G \\setminus X$ contains no $H$-subdivision and $|X| \\leq 2^{f(k)}mk +k(m-n)$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22079v1",
+    "categories": [
+      "math.AT"
+    ],
+    "authors": [
+      "Rafael Cavalcanti"
+    ],
+    "title": "Geometric Obstructions in Finsler Spaces and Torsion-Free Persistent Homology",
+    "abstract": "We relate the novel concept of Topological Data Analysis in Finsler space with representability property, which is a natural obstruction to prevent spurious features in high dimensions. We use decomposition of integer matrix in order to find suitable prime integer $p$ such that persistent homology module over $\\mathbb{Z}_p$ encompasses only the holes associated to the free part, in agreement with the rational case.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22062v1",
+    "categories": [
+      "math.DS",
+      "nlin.CD"
+    ],
+    "authors": [
+      "Gergely Buza",
+      "George Haller"
+    ],
+    "title": "Existence of spectral submanifolds in time delay systems",
+    "abstract": "Spectral submanifolds (SSMs) are invariant manifolds of a dynamical system, defined by the property of being tangent to a spectral subspace of the linearized dynamics at a steady state. We show existence, along with certain desirable properties such as smoothness, attractivity and conditional uniqueness, of SSMs associated to a large class of spectral subspaces in time delay systems. Building on these results, we generalize the criteria for existence of inertial manifolds -- defined as globally exponentially attracting Lipschitz invariant manifolds of finite dimension -- and show that they need not have dimension equal to that of the physical configuration, in contrast to previous accounts. We then demonstrate the applicability of these results on a few simple examples.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22038v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Wataru Nozawa"
+    ],
+    "title": "Mean-Field Analysis and Optimal Control of a Dynamic Rating and Matchmaking System",
+    "abstract": "Large-scale competitive platforms are interacting multi-agent systems in which latent skills drift over time and pairwise interactions are shaped by matchmaking. We study a controlled rating dynamics in the mean-field limit and derive a kinetic description for the joint evolution of skills and ratings. In the Gaussian regime, we prove an exact moment closure and obtain a low-dimensional deterministic state dynamics for rating accuracy. This yields three main insights. First, skill drift imposes an intrinsic ceiling on long-run accuracy (the ``Red Queen'' effect). Second, with period-by-period scale control, the information content of interactions satisfies an invariance principle: under signal-matched scaling, the one-step accuracy transition is independent of matchmaking intensity. Third, the optimal platform policy separates: filtering is implemented by a greedy choice of the gain and rating scale, while matchmaking reduces to a static trade-off between match utility and sorting costs.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21981v1",
+    "categories": [
+      "math.ST"
+    ],
+    "authors": [
+      "Rami V. Tabri"
+    ],
+    "title": "A Sieve-based Estimator for Entropic Optimal Transport",
+    "abstract": "The entropically regularized optimal transport problem between probability measures on compact Euclidean subsets can be represented as an information projection with moment inequality constraints. This allows its Fenchel dual to be approximated by a sequence of convex, finite-dimensional problems using sieve methods, enabling tractable estimation of the primal value and dual optimizers from samples. Assuming only continuity of the cost function, I establish almost sure consistency of these estimators. I derive a finite-sample convergence rate for the primal value estimator, showing logarithmic dependence on sieve complexity, and quantify uncertainty for the dual optimal value estimator via matching stochastic bounds involving suprema of centered Gaussian processes. These results provide the first statistical guarantees for sieve-based estimators of entropic optimal transport, extending beyond the empirical Sinkhorn approach.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21977v1",
+    "categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "authors": [
+      "Umberto De Ambroggio",
+      "Luca Makowiec"
+    ],
+    "title": "Repeat times and a two-weight UST model",
+    "abstract": "We study a model of random weighted uniform spanning trees on the complete graph with $n$ vertices, where each edge is assigned a weight of $n^{1+\u03b3}$ with probability $1/n$ and $1$ otherwise. Whenever $\u03b3$ is large enough, we prove that the diameter of the resulting tree is typically of order $n^{1/3} \\log n$, up to a $\\log \\log n$ correction. Our approach uses estimates on repeat times for selecting components in a critical Erd\u0151s-R\u00e9nyi graph, as well as concentration bounds on the sums of diameters of these components.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21976v1",
+    "categories": [
+      "math.AG",
+      "math.CO",
+      "math.DS",
+      "math.MG",
+      "math.PR"
+    ],
+    "authors": [
+      "Vladimir Dragovi\u0107",
+      "Milena Radnovi\u0107"
+    ],
+    "title": "Finite Groups of Random Walks in the Quarter Plane and Periodic $4$-bar Links",
+    "abstract": "We solve two long standing open problems, one from probability theory formulated by Malyshev in 1970 and another one from a crossroad of geometry and dynamics, going back to Darboux in 1879. The Malyshev problem is of finding effective, explicit necessary and sufficient conditions in the closed form to characterize all random walks in the quarter plane with a finite group of the random walk of order $2n$, for all $n\\ge 2$, in the generic case where the underlining biquadratic is an elliptic curve. Until now, the results were known only for $n=2, 3, 4$ and were obtained using ad-hoc methods developed separately for each of the three cases. We provide a method that solves the problem for all $n$ and in a unified way. We also consider situations with singular biquadratics. Further, we establish a new two-way relationship between \\emph{diagonal} random walks in the quarter plane and $4$-bar links. We describe all $n$-periodic Darboux transformations for $4$-bar link problems for all $n\\ge 2$, thus completely solving the Darboux problem, that he solved for $n=2$. We introduce \\emph{$k$ semi-periodicity} as a novel and natural type of periodicity of the Darboux transformations, where after $k$ iterations of the Darboux transformation, a polygonal configuration maps to a congruent one, but of opposite orientation. By introducing new objects, \\emph{the secondary $(2-2)$-correspondence} and the related \\emph{secondary cubic} of the centrally-symmetric biquadratics, we provide necessary and sufficient conditions for $k$-semi-periodicity for $4$-bar links for all $k\\ge 2$ in an explicit closed form.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21963v1",
+    "categories": [
+      "math.NT",
+      "math.CO"
+    ],
+    "authors": [
+      "Shohei Satake",
+      "Yoshinori Yamasaki"
+    ],
+    "title": "Topological properties of generalized Markoff mod $p$ graphs",
+    "abstract": "The generalized Markoff mod $p$ graph is defined via the equation $x^2+y^2+z^2=xyz+\u03ba$ over the finite field $\\mathbb{F}_p$ of prime order $p$. In this paper, we investigate the topological properties of the graph such as non-planarity, surface embeddability, and the existence of short cycles. Our approach is based on a systematic construction of $K_{3,3}$-subdivisions, integrating techniques from graph theory, computer algebra, and number theory.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21959v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Rakesh Arora",
+      "Hichem Hajaiej",
+      "Kanishka Perera"
+    ],
+    "title": "Nonlocal Dirichlet problems involving the Logarithmic $p$-Laplacian",
+    "abstract": "In this work, we show the existence of an unbounded sequence of minimax eigenvalues for the logarithmic $p$-Laplacian via the $\\mathbb{Z}_2$-cohomological index of Fadell and Rabinowitz. As an application of these minimax eigenvalues and $p$-logarithmic Sobolev inequality proved in [4], we prove new existence results for nonlocal Dirichlet problems involving logarithmic $p$-Laplacian and nonlinearities with $p$-superlinear and subcritical growth at infinity.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21954v1",
+    "categories": [
+      "cs.IT"
+    ],
+    "authors": [
+      "Mohsen Amidzadeh"
+    ],
+    "title": "Latency-Optimal Cache-aided Multicast Streaming via Forward-Backward Reinforcement Learning",
+    "abstract": "We consider a cellular network equipped with cache-enabled base-stations (BSs) leveraging an orthogonal multipoint multicast (OMPMC) streaming scheme. The network operates in a time-slotted fashion to serve content-requesting users by streaming cached files. The users being unsatisfied by the multicat streaming face a delivery outage, implying that they will remain interested in their preference at the next time-slot, which leads to a forward dynamics on the user preference. To design a latency-optimal streaming policy, the dynamics of latency is properly modeled and included in the learning procedure. We show that this dynamics surprisingly represents a backward dynamics. The combination of problem's forward and backward dynamics then develops a forward-backward Markov decision process (FB-MDP) that fully captures the network evolution across time. This FB-MDP necessitates usage of a forward-backward multi-objective reinforcement learning (FB-MORL) algorithm to optimize the expected latency as well as other performance metrics of interest including the overall outage probability and total resource consumption. Simulation results show the merit of proposed FB-MORL algorithm in finding a promising dynamic cache policy.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21946v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Marc Distel"
+    ],
+    "title": "An alternative characterisation of graphs quasi-isometric to graphs of bounded treewidth",
+    "abstract": "Quasi-isometry is a measure of how similar two graphs are at `large-scale'. Nguyen, Scott, and Seymour [arXiv:2501.09839] and Hickingbotham [arXiv:2501.10840] independently gave a characterisation of graphs quasi-isometric to graphs of treewidth $k$. In this paper, we give a new characterisation of such graphs. Specifically, we show that such graphs $G$ are characterised by the existence of a partition whose quotient has treewidth at most $k$ and such that each part has bounded weak diameter in $G$. The primary contribution of our characterisation is a structural description of graphs that admit such a quasi-isometry. This differs from the characterisation mentioned above, which primarily shows the existence of such a quasi-isometry. The characterisations are complementary, and neither immediately implies the other.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22074v1",
+    "categories": [
+      "math.RA"
+    ],
+    "authors": [
+      "Dominik Krasula"
+    ],
+    "title": "Semiperfect rings with a Nakayama permutation: A survey of Double annihilator property and Size condition",
+    "abstract": "For a semiperfect ring with essential socles, the Double annihilator property encodes that the top and socle have anti-isomorphic lattices of submodules, whereas the Size condition encodes that they are isomorphic as modules. Interest in both concepts, particularly for finite rings, was revived by coding theory, where they characterise QF rings and Frobenius rings, respectively. However, their shared origins date back to the work of T. Nakayama.\n  We study these concepts through the lens of the Nakayama permutation, an invariant initially used to define (quasi-)Frobenius rings. We propose semiperfect rings as the setting for this study, treating them as the natural generalisation of finite rings, because they possess the characteristic decomposition of unity preserved by projection onto a semisimple top. This allows us to extend the utility of the Nakayama permutation beyond the classical Artinian setting.\n  By analysing the Nakayama permutation in this broader context, we show that many classical properties of (quasi-)Frobenius rings are not exclusive to the finite case, but are special cases of the general behaviour of semiperfect rings with essential socles.\n  We illustrate these results using B. J. M\u00fcller's representation of semiperfect rings as rings of formal matrices. The clear description of socles and tops in this setting provides a straightforward method for constructing counterexamples, such as quasi-Frobenius rings that are not Frobenius.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22033v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Jihong Liu",
+      "Hao Qi",
+      "Zhangwei Shan"
+    ],
+    "title": "On the Density of Self-identifying Codes in $K_m \\times P_n$ and $K_m \\times C_n$",
+    "abstract": "We study the asymptotic density of self-identifying codes in the direct product graphs $K_m \\times P_n$ and $K_m \\times C_n$ (the direct product of complete graphs with paths and cycles). A self-identifying code is a dominating set $S$ where each vertex $u$ (in $G$) is uniquely determined by the intersection $\\bigcap_{c \\in N[u] \\cap S} N[c]$. Let $\u03b3^{\\rm SID}(G)$ denote its minimum size. For these product graphs, we establish new lower and upper bounds on $\u03b3^{\\rm SID}$. Crucially, from these bounds we prove that the asymptotic density $\u03b3^{\\rm SID}(G) / |V(G)|$ of a smallest self-identifying code converges to 1/3 for both families of graphs. This value matches the known asymptotic density of standard identifying codes in the same graphs, as established by Shinde and Waphare. Our result therefore shows that the stronger self-identifying constraint does not necessitate a higher density of vertices in this product setting.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22012v1",
+    "categories": [
+      "math.AC",
+      "math.CO"
+    ],
+    "authors": [
+      "Aldo Conca",
+      "Emanuela De Negri",
+      "Volkmar Welker"
+    ],
+    "title": "Generalized binomial edge ideals are Cartwright-Sturmfels",
+    "abstract": "Binomial edge ideals associated to a simple graph G were introduced by Herzog and collaborators and, independently, by Ohtani. They became an ``instant classic\" in combinatorial commutative algebra with more than 100 papers devoted to their investigation over the past 15 years. They exhibit many striking properties, including being radical and, moreover, Cartwright-Sturmfels. Using the fact that binomial edge ideals can be seen as ideals of 2-minors of a matrix of variables with two rows, generalized binomial edge ideals of 2-minors of matrices of m rows were introduced by Rauh and proved to be radical. The goal of this paper is to prove that generalized binomial edge ideals are Cartwright-Sturmfels. On the way we provide results on ideal constructions preserving the Cartwright-Sturmfels property. We also give examples and counterexamples to the Cartwright-Sturmfels property for higher minors.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22000v1",
+    "categories": [
+      "math.FA"
+    ],
+    "authors": [
+      "Gete Umbrey",
+      "Riken Kaye",
+      "Drema Lhamu",
+      "Monkhum Khilak",
+      "Bhuban Chandra Deuri"
+    ],
+    "title": "An application to a system of $(k,\u03c1)$-fractional Hilfer integral equations via a measure of noncompactness",
+    "abstract": "In our study, Darbo's fixed point theorem(DFPT) has been extended and generalized using $\\mathbb{H}$-class mappings and the measure of noncompactness. Utilizing this Darbo-type theorem, we provided a solvability result for a system of a $(k,\u03c1)$-fractional Hilfer integral equations, accompanied by an appropriate example to illustrate the findings.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21972v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Xin Xu"
+    ],
+    "title": "On Convergence of Regularized Barzilai-Borwein Method",
+    "abstract": "The regularized Barzilai-Borwein (RBB) method represents a promising gradient-based optimization algorithm. In this paper, by splitting the gradient into two parts and analyzing the dynamical system of difference equations governing the ratio of their magnitudes, we establish that the RBB method achieves R-linear convergence for strongly convex quadratic functions of arbitrary dimensions. Specifically, for the two-dimensional case, we provide a concise proof demonstrating that the method exhibits at least R-linear convergence. We propose a simple yet effective adaptive regularization parameter scheme to further improve its performance. A typical numerical example verifies the effectiveness of this scheme.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21961v1",
+    "categories": [
+      "math.DG"
+    ],
+    "authors": [
+      "Qin Deng",
+      "Alessandro Pigati"
+    ],
+    "title": "Topology of non-collapsed three-dimensional RCD spaces",
+    "abstract": "We show that non-collapsed $\\text{RCD}(K,3)$ spaces without boundary are orbifolds whose topological singularities are locally finite and locally homeomorphic to cones over $\\mathbb{RP}^2$, and that the topology of such spaces is stable under non-collapsed Gromov-Hausdorff convergence. We study the notion of non-orientability on these spaces as a key part of our analysis and show that the property of non-orientability (on uniformly sized balls) is stable under non-collapsed Gromov-Hausdorff convergence. Finally, we show that any non-orientable non-collapsed $\\text{RCD}(K,3)$ space without boundary admits a ramified double cover which is itself an orientable non-collapsed $\\text{RCD}(K,3)$ space without boundary, and that such ramified double cover is stable under non-collapsed Gromov-Hausdorff convergence.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21986v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Thai P. D. Nguyen",
+      "Hong T. M. Chu",
+      "Kim-Chuan Toh"
+    ],
+    "title": "Time-integrated Optimal Transport: A Robust Minimax Framework",
+    "abstract": "Comparing time series in a principled manner requires capturing both temporal alignment and distributional similarity of features. Optimal transport (OT) has recently emerged as a powerful tool for this task, but existing OT-based approaches often depend on manually selected balancing parameters and can be computationally intensive. In this work, we introduce the Time-integrated Optimal Transport (TiOT) framework, which integrates temporal and feature components into a unified objective and yields a well-defined metric on the space of probability measures. This metric preserves fundamental properties of the Wasserstein distance, while avoiding the need for parameter tuning. To address the corresponding computational challenges, we introduce an entropic regularized approximation of TiOT, which can be efficiently solved using a block coordinate descent algorithm. Extensive experiments on both synthetic and real-world time series datasets demonstrate that our approach achieves improved accuracy and stability while maintaining comparable efficiency.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22115v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Massimiliano Berti"
+    ],
+    "title": "Long time dynamics of space periodic water waves",
+    "abstract": "We review recent advances regarding the long-time dynamics of space-periodic water waves, focusing on 1) bifurcation of quasi-periodic solutions, both standing and traveling; 2) long-time well-posedness results; 3) modulational instability of Stokes waves. These results rely on unconventional approaches to KAM and Birkhoff normal form theories for Hamiltonian quasi-linear PDEs and symplectic Kato perturbation theory for separated eigenvalues of reversible and Hamiltonian operators.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22095v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Alan A. Tedeev"
+    ],
+    "title": "Decay of Mass of the Solution to the Cauchy Problem of the p-Laplacian with Absorption on Infinite Graphs",
+    "abstract": "We consider the Cauchy problem for the nonstationary discrete p-Laplacian with inhomogeneous density \\r{ho}(x) on an infinite graph which supports the Sobolev inequality. For nonnegative solutions when p > 2, we prove the precise rate of stabilization in time, provided \\r{ho}(x) is a non-power function. When p > 2 and \\r{ho}(x) goes to zero fast enough, we prove the universal bound. Our technique relies on suitable energy inequalities and a new embedding result.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22084v1",
+    "categories": [
+      "math.DS",
+      "cs.LG",
+      "math.NA"
+    ],
+    "authors": [
+      "John M. Mango",
+      "Ronald Katende"
+    ],
+    "title": "A Frobenius-Optimal Projection for Enforcing Linear Conservation in Learned Dynamical Models",
+    "abstract": "We consider the problem of restoring linear conservation laws in data-driven linear dynamical models. Given a learned operator $\\widehat{A}$ and a full-rank constraint matrix $C$ encoding one or more invariants, we show that the matrix closest to $\\widehat{A}$ in the Frobenius norm and satisfying $C^\\top A = 0$ is the orthogonal projection $A^\\star = \\widehat{A} - C(C^\\top C)^{-1}C^\\top \\widehat{A}$. This correction is uniquely defined, low rank and fully determined by the violation $C^\\top \\widehat{A}$. In the single-invariant case it reduces to a rank-one update. We prove that $A^\\star$ enforces exact conservation while minimally perturbing the dynamics, and we verify these properties numerically on a Markov-type example. The projection provides an elementary and general mechanism for embedding exact invariants into any learned linear model.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22078v1",
+    "categories": [
+      "math.CT"
+    ],
+    "authors": [
+      "Takuo Matsuoka"
+    ],
+    "title": "Notes on some categories related to that of finite totally ordered sets",
+    "abstract": "The purpose of these notes is to collect in one place some facts on the category of finite totally ordered sets and some related categories. More specifically, we collect some results on them which will be useful for the study of iteratedly meta theories of algebra in the style of our work arXiv:1601.00301 (arXiv:1601.00301), which is a kind of higher order universal algebra.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22068v1",
+    "categories": [
+      "cs.IT"
+    ],
+    "authors": [
+      "Anastasios Papazafeiropoulos",
+      "Ioannis Bartsiokas",
+      "Dimitra I. Kaklamani",
+      "Iakovos S. Venieris"
+    ],
+    "title": "On the Ergodic Capacity for SIM-Aided Holographic MIMO Communications",
+    "abstract": "We derive a novel closed-form lower bound on the ergodic capacity of holographic multiple-input multiple-output (HMIMO) systems enhanced by stacked intelligent metasurfaces (SIMs) under Rayleigh fading conditions. The proposed expression is valid for systems with a finite number of antennas and SIM elements and exhibits tightness throughout the whole signal-to-noise ratio (SNR) range. Furthermore, we conduct a comprehensive low-SNR analysis, offering meaningful observations on how key system parameters influence the capacity performance.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22053v1",
+    "categories": [
+      "math.DS"
+    ],
+    "authors": [
+      "V. S. Shalgin"
+    ],
+    "title": "Local identifiability of a parameter function in a system of differential equations",
+    "abstract": "In this paper, we consider the problem of local parameter identifiability of a parameter function in a system of ordinary differential equations. Previously, in this problem, the case where the dimensions of a parameter and a solution of a system coincide was considered, and a specific class of systems was identified, for which sufficient conditions for local parametric identifiability were obtained. We extend these results and consider a wider class of systems of differential equations, as well as the case where the dimension of a parameter is less than or equal to the dimension of a solution of a system. In both cases, sufficient conditions are derived for the local identifiability of a parameter function based on observations of a solution at a finite number of points.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22037v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Meng Wang",
+      "Zhichao Wang"
+    ],
+    "title": "Sharp pointwise convergence of Schr\u00f6dinger mean with complex time in higher dimensions",
+    "abstract": "In this paper, we establish the almost everywhere convergence of solutions to the Schr\u00f6dinger operator with complex time $ P_\u03b3f(x,t) $ in higher dimensions, under the assumption that the initial data $f$ belongs to the Sobolev space $ H^{s}(\\mathbb{R}^d)$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22006v1",
+    "categories": [
+      "math.NA"
+    ],
+    "authors": [
+      "Jinsil Lee",
+      "Youngjoon Hong",
+      "Seungchan Ko",
+      "Jae Yong Lee"
+    ],
+    "title": "Data-free Asymptotics-Informed Operator Networks for Singularly Perturbed PDEs",
+    "abstract": "Recent advances in machine learning (ML) have opened new possibilities for solving partial differential equations (PDEs), yet robust performance in challenging regimes remains limited. In particular, singularly perturbed differential equations exhibit sharp boundary or interior layers with rapid transitions, where standard ML surrogates often fail without extensive resolution. Generating training data for such problems is also costly, as accurate reference solutions typically require massive adaptive mesh refinement. In this work, we propose eFEONet, an enriched Finite Element Operator Network tailored to singularly perturbed problems. Guided by classical singular perturbation theory, eFEONet augments the operator-learning framework with specialized enrichment basis functions that encode the asymptotic structure of layer solutions. This design enables accurate approximation of sharp transitions without relying on large datasets, and can operate with minimal supervision-or even in a data-free manner under appropriate settings. We further provide a rigorous convergence analysis of the proposed method and demonstrate its effectiveness through extensive experiments on representative problems featuring both boundary and interior layers.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21971v1",
+    "categories": [
+      "math.RA",
+      "math.CO",
+      "math.NA"
+    ],
+    "authors": [
+      "Adrien Busnot Laurent",
+      "Yunnan Li",
+      "Yunhe Sheng"
+    ],
+    "title": "Post-Hopf algebroids, post-Lie-Rinehart algebras and geometric numerical integration",
+    "abstract": "In this paper, we introduce the notion of post-Hopf algebroids, generalizing the pre-Hopf algebroids introduced in [Bronasco, Laurent, 2025] in the study of exotic aromatic S-series. We construct action post-Hopf algebroids through actions of post-Hopf algebras. We show that the universal enveloping algebra of a post-Lie-Rinehart algebra (post-Lie algebroid) is naturally a post-Hopf algebroid. As a byproduct, we construct the free post-Lie-Rinehart algebra using a magma algebra with a linear map to the derivation Lie algebra of a commutative associative algebra. Applications in geometric numerical integration on manifolds are given.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21950v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Raphael Yuster"
+    ],
+    "title": "Acyclic subgraphs of digraphs with high chromatic number",
+    "abstract": "For a digraph $G$, let $f(G)$ be the maximum chromatic number of an acyclic subgraph of $G$. For an $n$-vertex digraph $G$ it is proved that $f(G) \\ge n^{5/9-o(1)}s^{-14/9}$ where $s$ is the bipartite independence number of $G$, i.e., the largest $s$ for which there are two disjoint $s$-sets of vertices with no edge between them. This generalizes a result of Fox, Kwan and Sudakov, who proved this for the case $s=0$ (i.e., tournaments and semicomplete digraphs). Consequently, if $s=n^{o(1)}$, then $f(G) \\ge n^{5/9-o(1)}$ which polynomially improves the folklore bound $f(G) \\ge n^{1/2-o(1)}$. As a corollary, with high probability, all orientations of the random $n$-vertex graph with edge probability $p=n^{-o(1)}$ (in particular, constant $p$, hence almost all $n$-vertex graphs) satisfy $f(G) \\ge n^{5/9-o(1)}$. Our proof uses a theorem of Gallai and Milgram that together with several additional ideas, essentially reduces to the proof of Fox, Kwan and Sudakov.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21938v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Zheng-Nan Hu",
+      "Jin Woo Jang",
+      "Zheng-An Yao",
+      "Yu-Long Zhou"
+    ],
+    "title": "Optimal Convergence Estimate of the Limit from Inverse Power Potential to Hard Sphere Boltzmann Equation",
+    "abstract": "The inverse power potential $U(r)=r^{-1/s}, 0<s<1$, generates the Boltzmann kernel $B^{s}=|v-v_*|^{1-4s} b_s(\u03b8)$ with an angular singularity as $\u03b8\\to 0$. Jang-Kepka-Nota-Vel\u00e1zquez (2023) proved the limit $B^{s}\\to \\frac14|v-v_*|$ as $s\\to 0$, as well as weak convergence of solutions based on this kernel convergence. In this work we establish the following sharp quantitative estimate: $$ |b_s(\u03b8)-\\tfrac14| \\le C\\, s\\,\u03b8^{-2-2s}. $$ In particular, this sharp estimate yields the optimal $O(s)$ convergence rate for solutions of the homogeneous Boltzmann equation with large initial data in suitable Sobolev spaces; i.e., for any $t\\in[0,T]$, we have $$f^s(t)=f^0(t)+O(s),$$ quantified by the $L^1_k$ norm for $k\\ge 2.$",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22091v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Aleksandr V. Pukhlikov"
+    ],
+    "title": "Factoriality and birational rigidity of two families of singular quartic three-folds",
+    "abstract": "In this paper we study two families of three-dimensional quartics in the complex projective space ${\\mathbb P}^4$: hypersurfaces with a unique quadratic singularity of rank 3, which is resolved by two blowups, and hypersurfaces with two quadratic singularities of rank 3 and 4, respectively. Both families have codimension 3 in the natural parameter space. For a Zariski general quartic in each of these families we prove factoriality and birational rigidity and describe its group of birational self-maps.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22083v1",
+    "categories": [
+      "math.NT",
+      "math.CO"
+    ],
+    "authors": [
+      "Wouter van Doorn",
+      "Quanyu Tang"
+    ],
+    "title": "The smallest denominator not contained in a unit fraction decomposition of $1$ with fixed length",
+    "abstract": "Let $v(k)$ be the smallest integer larger than $1$ that does not occur among the denominators in any identity of the form $$ 1=\\frac1{n_1}+\\cdots+\\frac1{n_k}, $$ where $1 \\le n_1<\\cdots<n_k$ are pairwise distinct integers. In their 1980 monograph, Erd\u0151s and Graham asked for quantitative estimates on the growth of $v(k)$ and suggested the lower bound $v(k)\\gg k!$. In this paper we give the first known improvement and show that there exists an absolute constant $c>0$ such that the inequality $$ v(k)\\ge e^{c k^2} $$ holds for all positive integers $k$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22052v1",
+    "categories": [
+      "math.RT",
+      "math.GR",
+      "math.RA"
+    ],
+    "authors": [
+      "Robynn Corveleyn",
+      "Geoffrey Janssens",
+      "Doryan Temmerman"
+    ],
+    "title": "Representing in Low Rank I: conjugacy, topological and homological aspects",
+    "abstract": "In this series of papers, we investigate properties of a finite group which are determined by its low degree irreducible representations over a number field $F$, i.e. its representations on matrix rings $\\operatorname{M}_n(D)$ with $n \\leq 2$. In particular we focus on representations on $\\operatorname{M}_2(D)$ where $D$ is a division algebra having an order $\\mathcal{O}$ such that $\\mathcal{O}$ has finitely many units, i.e. such that $\\operatorname{SL}_2(\\mathcal{O})$ has arithmetic rank $1$. In this first part, the focus is on two aspects.\n  One aspect concerns characterisations of such representing spaces in terms of Serre's homological goodness property, small virtual cohomological dimension and higher Kleinian-type embeddings. As an application, we obtain several characterisations of the finite groups $G$ whose irreducible representations are of the mentioned form. In particular, such groups $G$ are precisely those such that $\\mathcal{U}(R G)$, with $R$ the ring of integers of $F$, can be constructed from groups which virtually map onto a non-abelian free group. Along the way we investigate the latter property for congruence subgroups of higher modular groups and its implications for the congruence kernel. This is used to obtain new information on the congruence kernel of the unit group of a group ring.\n  The second aspect concerns the conjugacy classes of the images of finite subgroups of $\\mathcal{U}(R G)$ under the irreducible representations of $G$. More precisely, we initiate the study of a blockwise variant of the Zassenhaus conjectures and the subgroup isomorphism problem. Moreover, we contribute to them for the low rank representations above.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22034v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Hiroshi Nozaki",
+      "Yuta Watanabe"
+    ],
+    "title": "Combinatorial characterzations of $T$-designs in the nonbinary Johnson scheme",
+    "abstract": "We study $T$-designs in the nonbinary Johnson scheme. This scheme generalizes both the Johnson and Hamming schemes and admits a bivariate $Q$-polynomial structure. Zhu (2021) provided a combinatorial characterization of $T$-designs in this scheme for certain index sets $T$, using a relationship between $T$-designs in the nonbinary Johnson scheme and relative designs in the nonbinary Hamming scheme. In this paper, we obtain a characterization that applies to a strictly larger class of index sets $T$, based on a methodological extension of Delsarte's original framework (1973). This new characterization naturally recovers classical block designs and orthogonal arrays as special cases. To describe these designs uniformly, we introduce $(r,s)$-designs, a new family of combinatorial objects that arise naturally from our characterization. We also derive absolute lower bounds on the cardinality of $(r,s)$-designs from the multiplicities of the primitive idempotents of the nonbinary Johnson scheme, and construct examples with index $\u03bb=1$ that attain certain natural lower bounds.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21989v1",
+    "categories": [
+      "math.OC"
+    ],
+    "authors": [
+      "Thomas Bartz-Beielstein",
+      "Eva Bartz",
+      "Alexander Hinterleitner",
+      "Christoph Leitenmeier",
+      "Ihab Abd El Hussein"
+    ],
+    "title": "Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion",
+    "abstract": "Existing experimental designs in industry are often unplanned, biased, and lack optimal space-filling properties, making them unrepresentative of the input space. This article presents an approach to improve such designs by increasing coverage quality while simultaneously optimizing experimental results. We utilize the intensified Morris-Mitchell criterion, a size-invariant extension of the standard criterion, to quantify and improve input space coverage for existing designs. Using the Python package spotdesirability, we define a multi-objective desirability function that combines predictions from surrogate models (Random Forest) with the Morris-Mitchell improvement into a single score. This approach is demonstrated using a case study from compressor development, optimizing two performance objectives alongside the space-filling criterion. The Python package spotoptim is used for the optimization, and infill-point plots are introduced to visualize the placement of new design points relative to existing ones. This methodology effectively balances the exploration-exploitation trade-off in multi-objective optimization.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21935v1",
+    "categories": [
+      "math.CO",
+      "math.CA",
+      "math.DS",
+      "math.OC"
+    ],
+    "authors": [
+      "Hongjin Wu",
+      "Ulrik Brandes"
+    ],
+    "title": "Benign Nonconvexity of Synchronization Landscape Induced by Graph Skeletons",
+    "abstract": "We consider the homogeneous Kuramoto model on a graph and study the geometry of its associated nonconvex energy landscape. This problem admits a dual interpretation. On the one hand, it can be viewed as a geometric optimization problem, seeking configurations of phases that minimize the energy function $E(\\boldsymbol\u03b8):=-\\sum_{1\\leq i,j\\neq n}A_{ij}\\cos(\u03b8_i-\u03b8_j)$. On the other hand, the same function serves as the potential governing the dynamics of the classical homogeneous Kuramoto model. A central question is to identify which graphs induce a benign energy landscape, in the sense that every second-order stationary point is a global minimizer, corresponding to the fully synchronized state. In this case, the graph is said to be globally synchronizing. Most existing results establish global synchronization by relating a given graph to the complete graph, which is known to be globally synchronizing, and by showing that graphs sufficiently close to it inherit this property. In contrast, we uncover a fundamentally different mechanism: global synchronization, despite being a collective phenomenon, unfolds on these graphs through a sequential process of local synchronization that propagates along their structural skeletons. Our approach is based on a detailed analysis of the phasor geometry at second-order stationary points of the nonconvex energy landscape.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22042v1",
+    "categories": [
+      "math.LO",
+      "math.GN"
+    ],
+    "authors": [
+      "Rodrigo Nicolau Almeida",
+      "Guram Bezhanishvili",
+      "Nick Bezhanishvili"
+    ],
+    "title": "Esakia order-compactifications and locally Esakia spaces",
+    "abstract": "We introduce Esakia order-compactifications and study how they fit in the general theory of Priestley order-compactifications. We provide an analog of Dwinger's theorem by characterizing Esakia order-compactifications by means of special rings of upsets. These considerations naturally lead to the notion of a locally Esakia space, for which we prove that taking the largest Esakia order-compacification is functorial, thus obtaining an analog of Banaschewski's theorem.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22040v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Lizhe Wan",
+      "Jiaqi Yang"
+    ],
+    "title": "Low regularity well-posedness for two-dimensional hydroelastic waves",
+    "abstract": "We investigate the low regularity local well-posedness of two-dimensional irrotational deep hydroelastic waves. Building on the approach of Ifrim-Tataru [29] and Ai-Ifrim-Tataru [5], in particular by constructing a cubic modified energy that incorporates a paradifferential weight chosen carefully, we prove that the hydroelastic waves are locally well-posed in $\\mathcal{H}^s$ for $s>\\frac{3}{4}$.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22025v1",
+    "categories": [
+      "math.NT"
+    ],
+    "authors": [
+      "M. A. Korolev"
+    ],
+    "title": "Elementary proof of some Ramanujan-type identities",
+    "abstract": "We give an elementary proof of some identities that express the squares of Riemann zeta function at integer points by the series involving hyperbolic functions, digamma function, Bernoulli numbers etc.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22013v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Jun-Jie Huang"
+    ],
+    "title": "On distance transitive graphs and $4$-geodesic transitive graphs",
+    "abstract": "For an integer $s\\geq1$ and a graph $\u0393$, a path $(u_0, u_1, \\ldots, u_{s})$ composed of vertices of $\u0393$ is called an {\\em $s$-geodesic} if it is a shortest path between $u_0$ and $u_s$. We say that $\u0393$ is {\\em $s$-geodesic transitive} if for each $i\\leq s$, $\u0393$ contains at least one $i$-geodesic, and its automorphism group acts transitively on the set of all $i$-geodesics. In this paper, by using the classification of almost simple primitive groups of rank $4$, we first classify all distance transitive graphs of diameter $3$. The resulting classification encompasses $73$ classes of graphs. As an application of this result, we have extended the main result of Jin and Tan [J. Algebra Combin. 60 (2024) 949--963]. More precisely, for a connected $(G,4)$-geodesic transitive graph with a nontrivial intransitive normal subgroup $N$ of $G$ that has at least $3$ orbits, where $G$ is an automorphism group of $\u0393$, it is shown that either both $\u0393$ and $\u0393_N$ are known, or $\u0393$ and $\u0393_N$ have the same girth and $\u0393_N$ is $(G/N,4)$-geodesic transitive.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22005v1",
+    "categories": [
+      "math.AP"
+    ],
+    "authors": [
+      "Pablo Benavent-Ocejo",
+      "Delfina G\u00f3mez",
+      "Maria-Eugenia P\u00e9rez-Mart\u00ednez"
+    ],
+    "title": "Asymptotics for the spectrum of the Laplacian in thin bars with varying cross sections",
+    "abstract": "We consider spectral problems for Laplace operator in 3D rod structures with a small cross section of diameter $O(\\varepsilon)$, $\\varepsilon$ being a positive parameter. The boundary conditions are Dirichlet (Neumann, respectively) on the bases of this structure and Neumann on the lateral boundary. As $\\varepsilon\\to 0$, we show the convergence of the spectrum with conservation of the multiplicity towards that of a 1D spectral model with Dirichlet (Neumann, respectively) boundary conditions. This 1D model may arise in diffusion or vibrations models of nonhomogeneous media with different physical characteristics and it takes into account the geometry of the 3D domain. We deal with the low frequencies and the approach to eigenfunctions in the suitable Sobolev spaces is also outlined.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22004v1",
+    "categories": [
+      "math.QA",
+      "math-ph",
+      "nlin.SI"
+    ],
+    "authors": [
+      "Rei Inoue",
+      "Atsuo Kuniba"
+    ],
+    "title": "Solutions of 3D Reflection Equation from Quantum Cluster Algebra Associated with Symmetric Butterfly Quiver",
+    "abstract": "We construct a new solution $(R,K)$ to the three-dimensional reflection equation, a boundary analogue of the tetrahedron equation. The $R$-operator is the one obtained by Sun, Terashima, Yagi, and the authors in 2024, involving four quantum dilogarithms with arguments in the $q$-Weyl algebra. The new $K$-operator similarly involves ten such quantum dilogarithms. Our approach is based on the quantum cluster algebra associated with the symmetric butterfly quiver on the wiring diagram of type C.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.22002v1",
+    "categories": [
+      "math.AG"
+    ],
+    "authors": [
+      "Keiji Matsumoto",
+      "Ryunosuke Nakano"
+    ],
+    "title": "The algebro-geometric aspect of the iterated limit of a quaternary of means of four terms",
+    "abstract": "We study the iterated limit of a quaternary of means of four terms through the period map from the family of cyclic fourfold coverings of the complex projective line branching at six points to the three-dimensional complex ball $\\mathbb{B}_3$ embedded into the Siegel upper half-space of degree four. We construct four automorphic forms on $\\mathbb{B}_3$ expressing the inverse of the period map, and give an equality between one of them and a period integral, which is an analogy of Jacobi's formula between a theta constant and an elliptic integral. We find a transformation of $\\mathbb{B}_3$ such that the quaternary of means appears by its actions on the four automorphic forms. These results enable us to express the iterated limit by the Lauricella hypergeometric series of type $D$ in three variables.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21943v1",
+    "categories": [
+      "math.CO"
+    ],
+    "authors": [
+      "Nathan Britt",
+      "Nicholas Beaton"
+    ],
+    "title": "Completing the enumeration of inversion sequences avoiding triples of relations",
+    "abstract": "An inversion sequence of length $n$ is an integer sequence $(a_1, \\ldots, a_n)$ such that $0 \\le a_i < i$ for all $i$. The study of pattern-avoiding inversion sequences was initiated in 2015 by Mansour and Shattuck and in 2016 by Corteel, Martinez, Savage and Weselcouch. Martinez and Savage later defined a new type of pattern, a triple of binary relations, of which there are currently 14 uncounted avoidance classes. We complete the enumeration for all of these classes using generating tree methods \"growing on the left\" and \"growing on the right\". For many of these classes we are able to find algebraic generating functions. We also discuss the asymptotic behaviour of the counting sequences.",
+    "date": "12-29"
+  },
+  {
+    "link": "https://arxiv.org/pdf/2512.21936v1",
+    "categories": [
+      "math.GR"
+    ],
+    "authors": [
+      "Sahana Balasubramanya",
+      "Talia Fernos"
+    ],
+    "title": "Acylindricity in Higher Rank, Part I : Fundamentals",
+    "abstract": "We present a new notion of non-positively curved groups: the collection of discrete countable groups acting (AU-)acylindrically on finite products of $\u03b4$-hyperbolic spaces with general type factors and associated subdirect products. This work is inspired by the classical theory of $S$-arithmetic lattices and the flourishing theory of acylindrically hyperbolic groups. In this paper - the first of three - we develop various fundamental results, explore elementary subgroups in higher rank, and exhibit a free vs abelian Tits Alternative. Along the way we give representation-theoretic proofs of various results about acylindricity -- some methods are new even in the rank-one setting.\n  The vastness of this class of groups is exhibited by recognizing that it contains $S$-arithmetic lattices with rank-one factors, acylindrically hyperbolic groups, colorable HHGs, groups with property (QT), and enjoys robust stability properties.",
+    "date": "12-29"
+  }
+]
