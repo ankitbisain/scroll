@@ -1,0 +1,12 @@
+[project]
+name = "scroll"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "arxiv>=2.4.0",
+    "beautifulsoup4>=4.14.3",
+    "pylatexenc>=2.10",
+    "requests>=2.32.5",
+]
